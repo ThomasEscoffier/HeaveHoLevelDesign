@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WeirdoOverrideUI
+  m_Controller: {fileID: 9100000, guid: 30059754204894d40988e1127ec6fc31, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 79356fa3f7105784eae613f42a079301, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c77f7e8e567023f4281499d052004b97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7253c2c899b34e747a9496edcff3399e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20d8050835b353f41ba102c9abe425d5, type: 2}

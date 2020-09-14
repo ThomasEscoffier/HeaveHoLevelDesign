@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4561730818117796314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4561730818117796315}
+  - component: {fileID: 4561730818117796312}
+  m_Layer: 0
+  m_Name: ScoreRecap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4561730818117796315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4561730818117796314}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4561730818117796312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4561730818117796314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d23b15a2b50b8e47a01aea213d8ff59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SkipText: {fileID: 0}
+  BaseCanvas: {fileID: 0}
+  MicrosoftButton: {fileID: 0}
+  SonyButton: {fileID: 0}
+  NintendoButton: {fileID: 0}
+  Fireworks: []
+  AnimLoaderSkip: {fileID: 0}
+  MetricsPrefabsToDisplay:
+  - {fileID: 4657501504328473837, guid: 7bc21abde9302de4cac177f3064c6485, type: 3}
+  - {fileID: 5657676379790785495, guid: cafd662adf2ea8347b5529d9714c637e, type: 3}
+  - {fileID: 1315899353770881921, guid: 9f93eb15cf498fd40b89608458529594, type: 3}
+  - {fileID: 2072709567893693322, guid: df91907e6d3481346bcdf45d1d9b03f5, type: 3}

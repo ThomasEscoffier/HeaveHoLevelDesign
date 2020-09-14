@@ -1,0 +1,68 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime", "Unity.Postprocessing.Runtime.csproj", "{7582968F-D32C-8D57-E2EC-D17A1FD3E707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{06D9D1AD-463B-2CFE-93A6-42677E2E941B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime.Tests", "Unity.Postprocessing.Runtime.Tests.csproj", "{2650A228-AF93-7E35-1317-01DBF0B6EFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{4A616160-FC48-3CCE-C4B1-BE1FAC5DF1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{EEB8498A-2809-F7BB-33DC-134C8DB1E287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor", "Unity.Postprocessing.Editor.csproj", "{F1D85931-6312-5DD1-ADB5-698240BD9A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor.Tests", "Unity.Postprocessing.Editor.Tests.csproj", "{344732F0-591D-D7F5-5D5A-8CE77205A854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Editor|Windows = Editor|Windows
+		Debug|Windows = Debug|Windows
+		Release|Windows = Release|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Editor|Windows.ActiveCfg = Editor|Windows
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Editor|Windows.Build.0 = Editor|Windows
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Debug|Windows.ActiveCfg = Debug|Windows
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Debug|Windows.Build.0 = Debug|Windows
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Release|Windows.ActiveCfg = Release|Windows
+		{7582968F-D32C-8D57-E2EC-D17A1FD3E707}.Release|Windows.Build.0 = Release|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Editor|Windows.ActiveCfg = Editor|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Editor|Windows.Build.0 = Editor|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Debug|Windows.ActiveCfg = Debug|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Debug|Windows.Build.0 = Debug|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Release|Windows.ActiveCfg = Release|Windows
+		{06D9D1AD-463B-2CFE-93A6-42677E2E941B}.Release|Windows.Build.0 = Release|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Editor|Windows.ActiveCfg = Editor|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Editor|Windows.Build.0 = Editor|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Debug|Windows.ActiveCfg = Debug|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Debug|Windows.Build.0 = Debug|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Release|Windows.ActiveCfg = Release|Windows
+		{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}.Release|Windows.Build.0 = Release|Windows
+		{2650A228-AF93-7E35-1317-01DBF0B6EFBA}.Editor|Windows.ActiveCfg = Editor|Windows
+		{2650A228-AF93-7E35-1317-01DBF0B6EFBA}.Editor|Windows.Build.0 = Editor|Windows
+		{2650A228-AF93-7E35-1317-01DBF0B6EFBA}.Debug|Windows.ActiveCfg = Debug|Windows
+		{2650A228-AF93-7E35-1317-01DBF0B6EFBA}.Release|Windows.ActiveCfg = Release|Windows
+		{4A616160-FC48-3CCE-C4B1-BE1FAC5DF1F7}.Editor|Windows.ActiveCfg = Editor|Windows
+		{4A616160-FC48-3CCE-C4B1-BE1FAC5DF1F7}.Editor|Windows.Build.0 = Editor|Windows
+		{4A616160-FC48-3CCE-C4B1-BE1FAC5DF1F7}.Debug|Windows.ActiveCfg = Debug|Windows
+		{4A616160-FC48-3CCE-C4B1-BE1FAC5DF1F7}.Release|Windows.ActiveCfg = Release|Windows
+		{EEB8498A-2809-F7BB-33DC-134C8DB1E287}.Editor|Windows.ActiveCfg = Editor|Windows
+		{EEB8498A-2809-F7BB-33DC-134C8DB1E287}.Editor|Windows.Build.0 = Editor|Windows
+		{EEB8498A-2809-F7BB-33DC-134C8DB1E287}.Debug|Windows.ActiveCfg = Debug|Windows
+		{EEB8498A-2809-F7BB-33DC-134C8DB1E287}.Release|Windows.ActiveCfg = Release|Windows
+		{F1D85931-6312-5DD1-ADB5-698240BD9A03}.Editor|Windows.ActiveCfg = Editor|Windows
+		{F1D85931-6312-5DD1-ADB5-698240BD9A03}.Editor|Windows.Build.0 = Editor|Windows
+		{F1D85931-6312-5DD1-ADB5-698240BD9A03}.Debug|Windows.ActiveCfg = Debug|Windows
+		{F1D85931-6312-5DD1-ADB5-698240BD9A03}.Release|Windows.ActiveCfg = Release|Windows
+		{344732F0-591D-D7F5-5D5A-8CE77205A854}.Editor|Windows.ActiveCfg = Editor|Windows
+		{344732F0-591D-D7F5-5D5A-8CE77205A854}.Editor|Windows.Build.0 = Editor|Windows
+		{344732F0-591D-D7F5-5D5A-8CE77205A854}.Debug|Windows.ActiveCfg = Debug|Windows
+		{344732F0-591D-D7F5-5D5A-8CE77205A854}.Release|Windows.ActiveCfg = Release|Windows
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

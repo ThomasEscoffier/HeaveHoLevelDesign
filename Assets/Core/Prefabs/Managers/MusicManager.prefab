@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1987475427565786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4194012781253308}
+  - component: {fileID: 114497990223141176}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4194012781253308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987475427565786}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.167589, y: -7.507127, z: 0.045558386}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114497990223141176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987475427565786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7d73936081e161439a13ede6335503d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EventList:
+  - EventName: MusicDefault
+    EventPath: event:/Music/Level1
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: striketheposeElectro
+    EventPath: event:/Music/strikethepose
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: striketheposeHardRock
+    EventPath: event:/Music/strikethepose_HardRock
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: striketheposeSkaFunk
+    EventPath: event:/Music/strikethepose_skafunk
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: Title
+    EventPath: event:/Music/Menu
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: basketball
+    EventPath: event:/Music/basket
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: canyonstingersdeath
+    EventPath: event:/MusicStingers/canyonstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: canyonstingersrespawn
+    EventPath: event:/MusicStingers/canyonstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: canyonstingersstart
+    EventPath: event:/MusicStingers/canyonstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: cavernestingersdeath
+    EventPath: event:/MusicStingers/cavernestingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: cavernestingersrespawn
+    EventPath: event:/MusicStingers/cavernestingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: cavernestingersstart
+    EventPath: event:/MusicStingers/cavernestingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: circusstingersdeath
+    EventPath: event:/MusicStingers/circusstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: circusstingersrespawn
+    EventPath: event:/MusicStingers/circusstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: circusstingersstart
+    EventPath: event:/MusicStingers/circusstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: gothamstingersdeath
+    EventPath: event:/MusicStingers/gothamstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: gothamstingersrespawn
+    EventPath: event:/MusicStingers/gothamstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: gothamstingersstart
+    EventPath: event:/MusicStingers/gothamstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: japanstingersdeath
+    EventPath: event:/MusicStingers/japanstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: japanstingersrespawn
+    EventPath: event:/MusicStingers/japanstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: japanstingersstart
+    EventPath: event:/MusicStingers/japanstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: junglestingersdeath
+    EventPath: event:/MusicStingers/junglestingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: junglestingersrespawn
+    EventPath: event:/MusicStingers/junglestingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: junglestingersstart
+    EventPath: event:/MusicStingers/junglestingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: mountainsstingersdeath
+    EventPath: event:/MusicStingers/mountainsstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: mountainsstingersrespawn
+    EventPath: event:/MusicStingers/mountainsstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: mountainsstingersstart
+    EventPath: event:/MusicStingers/mountainsstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: paintstingersdeath
+    EventPath: event:/MusicStingers/paintstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: paintstingersrespawn
+    EventPath: event:/MusicStingers/paintstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: paintstingersstart
+    EventPath: event:/MusicStingers/paintstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: spacestingersdeath
+    EventPath: event:/MusicStingers/spacestingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: spacestingersrespawn
+    EventPath: event:/MusicStingers/spacestingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: spacestingersstart
+    EventPath: event:/MusicStingers/spacestingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: townstingersdeath
+    EventPath: event:/MusicStingers/townstingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: townstingersrespawn
+    EventPath: event:/MusicStingers/townstingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: townstingersstart
+    EventPath: event:/MusicStingers/townstingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: tutostingersdeath
+    EventPath: event:/MusicStingers/tutostingersdeath
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: tutostingersrespawn
+    EventPath: event:/MusicStingers/tutostingersrespawn
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: tutostingersstart
+    EventPath: event:/MusicStingers/tutostingersstart
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: MusicDemoEnd
+    EventPath: event:/Music/circus-level5
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  DefaultMusic: MusicDefault
+  DemoEndMusic: MusicDemoEnd
+  TitleMusic: Title
+  LanguageMusic: 

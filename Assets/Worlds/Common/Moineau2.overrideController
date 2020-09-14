@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Moineau2
+  m_Controller: {fileID: 9100000, guid: ef73169920ab03f41913f025c9c2d60f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: da7bbb31d16c2674baac6716efa47bbe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 58cca6e5c42c7c1478b3a472c64aa439, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 383cdb63265b1b946b5167b1fa30e55f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 661acc5d38dc8a64282bd6e0aa121955, type: 2}

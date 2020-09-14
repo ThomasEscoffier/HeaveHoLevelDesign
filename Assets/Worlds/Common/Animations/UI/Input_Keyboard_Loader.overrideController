@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Input_Keyboard_Loader
+  m_Controller: {fileID: 9100000, guid: c98828468d109824580724c062396b3d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 77263b42989a9124daad83f9e91bdc68, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cfa00c0f2d4e6654fb6dee678d74ecab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f2bc91cb9202a5349b1ae6a44d756ef7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1ccefbfc89dc6b43a2f4d77349e2c97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 25098806114b2ba409763b0470e64f20, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e6975aa53d776674ea46d0a835797907, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fd66c405e98bdfb4eb99c4d9ae7960f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dee6cf6070840684aba92d5b65d4e9a6, type: 2}

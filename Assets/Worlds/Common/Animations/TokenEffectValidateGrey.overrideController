@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TokenEffectValidateGrey
+  m_Controller: {fileID: 9100000, guid: 5564bbfa21723424fa67336ec31d2c7f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2746fe08ab6b2d46a8e9261fd022ec5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 008d5f36f322adb4c95fa36882071e12, type: 2}

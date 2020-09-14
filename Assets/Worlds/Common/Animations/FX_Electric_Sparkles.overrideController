@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FX_Electric_Sparkles
+  m_Controller: {fileID: 9100000, guid: 42956aac5c626f747ba2e72c4ab53475, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 97dea534c13fed947b4731b705813b4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 90d5b353d3ef71c40948c9a950bf10f9, type: 2}

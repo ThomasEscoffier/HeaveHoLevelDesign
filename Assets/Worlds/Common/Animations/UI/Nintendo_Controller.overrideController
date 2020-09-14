@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Nintendo_Controller
+  m_Controller: {fileID: 9100000, guid: 7f4310bd5cecfaf40a50d1058eca7ae5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 500567583a0c620439b2f2d9c9d3ab35, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cff701a1f6638cf45885bfd502d9c589, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 528752c797aebe54592dc284d61677e9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48d173c502302474284b2b2100079f4b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 34beff4d16820f2469a156b38857cdc1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b77ef8406efb4b4429aae090c884892c, type: 2}

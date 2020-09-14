@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5430cf35315e0dd449b1278eb3edeafc, type: 3}
+  m_Name: Bear
+  m_EditorClassIdentifier: 
+  Name: Bear
+  BodyColor: {fileID: 11400000, guid: eabf18cac8530aa448cb5a07606a836a, type: 2}
+  HairName: COIFFE_BEAR
+  GlassesName: 
+  FacialFeaturesName: 
+  Arms: {fileID: 11400000, guid: fc164569b154aca409db4f3c36798ad0, type: 2}
+  Personality: 0
+  IsRobot: 0
+  IsMask: 0
+  IsHideFace: 0
+  IsAvailableInSelection: 1

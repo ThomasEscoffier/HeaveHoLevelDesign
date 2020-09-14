@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EggEffect
+  m_Controller: {fileID: 9100000, guid: ab0f9491bc76b284488edd28835b5a60, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2746fe08ab6b2d46a8e9261fd022ec5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b2746fe08ab6b2d46a8e9261fd022ec5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 56dbfc7562553214fbaa3766fae45a68, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 70b20668f8c64f54e86925b8b6ab52fd, type: 2}

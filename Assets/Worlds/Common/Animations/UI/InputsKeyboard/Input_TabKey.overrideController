@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Input_TabKey
+  m_Controller: {fileID: 9100000, guid: f5c34fe022aa4014cb350b7dfe074a29, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e5baea6a1e16445489b976296f60a742, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5aaf86a993032bb45831a62270268df9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1f50687c557f31b4f925b5f01b372965, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8782e09eefcb4104fb77b6de4a2576a5, type: 2}

@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1730517930415716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4337653717436102}
+  - component: {fileID: 114565867284531172}
+  - component: {fileID: 114730802520684304}
+  - component: {fileID: 114531681539368440}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4337653717436102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730517930415716}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4326554986705670}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114565867284531172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730517930415716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6179bbae6fb40ef4e85f83dbe6f37aa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameManagerPrefab: {fileID: 114624304976419102, guid: b1b8198c197ea0244ad16e7ff14b3815,
+    type: 3}
+  LevelRules: {fileID: 11400000, guid: fe2a978ef77e3f44aae5d1fe400e86b4, type: 2}
+  Gravity: {x: 0, y: -20}
+  IsNotUsingUpLimit: 1
+  IsNotUsingRightLimit: 0
+  IsNotUsingLeftLimit: 0
+  IsNotUsingDownLimit: 0
+  KillGrabbingCharacters: 0
+  TimeOutsideCameraBeforeDeath: 1
+  TimeBeforeNextLevel: 6
+  TimeBeforeLaunchMusic: 0
+  NextLevelVote: 0
+  NextLevel: 
+  OnLevelFinished:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114730802520684304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730517930415716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afcab86b207955841a7d50ccc6717955, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EventList:
+  - EventName: LevelStart
+    EventPath: event:/Interface/DebutNiveau
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: EndLevel
+    EventPath: event:/Interface/FinNiveau
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+--- !u!114 &114531681539368440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730517930415716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684ea958a0d365144b16921ea69b9421, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlashPrefab: {fileID: 114870425991000220, guid: 27bc262d2d7c1354b96edd79b87c2f1b,
+    type: 3}
+  StartFlashTime: 0
+  WaitBeforeFade: 0
+  EndFadeFlashTime: 0.5
+--- !u!1 &1774924944340124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4326554986705670}
+  - component: {fileID: 114144366456809458}
+  m_Layer: 0
+  m_Name: RandomLevelEventsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4326554986705670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774924944340124}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4337653717436102}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114144366456809458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774924944340124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a3e8526fdc39b49900cf652540c0a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RandomLevelEvents: []
+  isPlayingRandomly: 1
+  TimeMax: 20
+  TimeMin: 10

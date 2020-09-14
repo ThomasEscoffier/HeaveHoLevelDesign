@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1094563229700348
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4251065637455062}
+  - component: {fileID: 114624304976419102}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4251065637455062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094563229700348}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114624304976419102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094563229700348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 734e7746da34d8b4fa5df16323201972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerPrefab: {fileID: 114344031913897970, guid: 4a2f55cc3e127234d85371f896f704af,
+    type: 3}
+  LevelSelectorPrefab: {fileID: 114424674865274284, guid: 51d96a1feb5340e4a855ae7ef4b9a6c5,
+    type: 3}
+  DebugModePrefab: {fileID: 114431218656860152, guid: 3368228c92a345745b3b0a02b1bb15dd,
+    type: 3}
+  PaintManagerPrefab: {fileID: 114715461410160858, guid: 081d2438423f879479f07eb445662198,
+    type: 3}
+  MusicManagerPrefab: {fileID: 114497990223141176, guid: 8e1f02a11d328224888dc7e05575901c,
+    type: 3}
+  AmbianceManagerPrefab: {fileID: 114394799752285824, guid: 2113169070cfec14792e8e2010438900,
+    type: 3}
+  ControllerTypesManagerPrefab: {fileID: 4058730493380075489, guid: d412995e933855f44b62c6915a856f71,
+    type: 3}
+  CharacterAssets: {fileID: 904702161470207085, guid: 4512030b990b675408826a381d3872e7,
+    type: 3}
+  Presets: {fileID: 11400000, guid: 14836d23eda9fcd44a5640ec1e2f92b8, type: 2}
+  NbMaxPlayers: 4

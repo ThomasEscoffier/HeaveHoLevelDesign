@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad60a0d362e4a25459f09fcb9a75801e, type: 3}
+  m_Name: TutoWorldProperties
+  m_EditorClassIdentifier: 
+  WorldName: Tuto
+  LocaKey: World_Tuto
+  TypeName: Tutorial
+  OrderInMenu: 0
+  ColorInMenu: {r: 0.22745098, g: 0.22745098, b: 0.22745098, a: 1}
+  BackgroundAnimatorName: TutoMenuBackground
+  runs:
+  - NbPlayerMin: 1
+    NbPlayerMax: 4
+    properties:
+    - LevelName: Tuto1
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/tuto-level1
+      Ambiance: event:/SFX/Ambience/tuto-amb1
+      Snapshot: 
+      Stinger: event:/MusicStingers/tuto-stingers
+      StingerOnesShot: tutostingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.32156864, g: 0.83137256, b: 0.47058824, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+    - LevelName: Tuto2
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/tuto-level2
+      Ambiance: event:/SFX/Ambience/tuto-amb2
+      Snapshot: 
+      Stinger: event:/MusicStingers/tuto-stingers
+      StingerOnesShot: tutostingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.32156864, g: 0.8313726, b: 0.47058827, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+    - LevelName: Tuto3
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/tuto-level3
+      Ambiance: event:/SFX/Ambience/tuto-amb3
+      Snapshot: 
+      Stinger: event:/MusicStingers/tuto-stingers
+      StingerOnesShot: tutostingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.32156864, g: 0.8313726, b: 0.47058827, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+    - LevelName: Tuto4
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/tuto-level4
+      Ambiance: event:/SFX/Ambience/tuto-amb3
+      Snapshot: 
+      Stinger: event:/MusicStingers/tuto-stingers
+      StingerOnesShot: tutostingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.32156864, g: 0.8313726, b: 0.47058827, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+    - LevelName: Tuto_Ceremony
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/tuto-recap
+      Ambiance: event:/SFX/Ambience/tuto-amb3
+      Snapshot: 
+      Stinger: event:/MusicStingers/tuto-stingers
+      StingerOnesShot: tutostingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.32156864, g: 0.8313726, b: 0.47058827, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+  requiredAssetbundles:
+  - tutoscenes
+  - tutoassets

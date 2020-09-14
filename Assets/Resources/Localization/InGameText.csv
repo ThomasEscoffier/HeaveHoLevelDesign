@@ -1,0 +1,200 @@
+,,,"Important: Un parcours est différent d'un niveau. Un parcours est un enchaînement de plusieurs niveaux. Le joueur selectionne un parcours, et va jouer les X niveau qui le compose.",,,,,,,,,
+,,,https://youtu.be/nQIfksG9qfk?t=337,,,,,,,,,
+,,,,,,,,,,,,
+Key/Language,Description,EN,FR,DE,ES,PTBR,IT,RU,JP,KO,TCH,SCH
+Menu_Title_Exit,TITLE SCREEN,Exit,Quitter,Beenden,Salir,Sair,Esci,Выход,ゲームをしゅうりょう,나가기,退出,退出
+Menu_Title_Press,,Press,Appuyez sur,Zum Starten,Pulsa,Aperte,Premi,Нажмите,,시작하려면,輕按,轻按
+Menu_Title_ToStart,,to start,pour commencer,drücken,para empezar,para começar,per iniziare,/ чтобы начать,スタート,버튼을 누르세요,以開始,以开始
+Menu_Selection_Press,CHARACTERS SELECTION,Press,Appuyez sur,Zum Beitreten,Pulsa,Pressione,Premi,Нажмите,,참가하려면,輕按,轻按
+Menu_Selection_Join,,to join,pour commencer,drücken,para unirte,para entrar,per unirti,/ чтобы присоединиться,さんか,버튼을 누르세요,以加入,以加入
+Menu_Selection_Ready,,Ready!!!,Prêt !!!,Bereit!!!,¡¡¡Listo!!!,Pronto!!!,Pronto!!!,Готово!!!,イケマス！,준비!!!,準備！！！,预备！！！
+Menu_Selection_Character,,Costume,Costume,Kostüm,Disfraz,Visual,Costume,Костюм,コスチューム,의상,服裝,套装
+Menu_Selection_Color,,Skin color,Couleur de peau,Hautfarbe,Color de piel,Cor da pele,Colore pelle,Цвет кожи,イロ,피부 색상,膚色,肤色
+Menu_Selection_Hair,,Hair,Cheveux,Haar,Pelo,Cabelo,Capelli,Волосы,アタマ,머리,頭髮,头发
+Menu_Selection_Glasses,,Glasses,Lunettes,Brille,Gafas,Óculos,Occhiali,Очки,メガネ,안경,眼鏡,眼镜
+Menu_Selection_FacialFeatures,,Face,Visage,Gesicht,Cara,Rosto,Viso,Лицо,カオ,얼굴,臉龐,脸庞
+Menu_Selection_Arms,,Arms,Bras,Arme,Brazos,Braços,Braccia,Руки,ウデ,방어구,雙臂,双臂
+Menu_Selection_Personality,,Voice,Voix,Stimme,Voz,Voz,Voce,Голос,コエ,음성,聲音,声音
+Menu_Selection_Assistance,,Assistance mode,Mode débutant,Unterstützungsmodus,Modo Principiante,Modo Iniciante,Modalità assistita,Режим новичка,オタスケグローブ,지원 모드,輔助模式,辅助模式
+Menu_Selection_Remove,,Remove,Retirer,Entfernen,Eliminar,Remover,Rimuovi,Удалить,はずす,제거,移除,移除
+Menu_Selection_Random,,Random,Aléatoire,Zufällig,Aleatorio,Aleatório,Casuale,Случайно,おまかせ,랜덤,隨機,随机
+Menu_Selection_Confirm,,Confirm,Confirmer,Bestätigen,Confirmar,Confirmar,Conferma,Подтвердить,OK,확인,確認,确认
+Menu_Selection_Cancel,,Cancel,Annuler,Abbrechen,Cancelar,Cancelar,Annulla,Отменить,キャンセル,취소,取消,取消
+Menu_Selection_Go,,Let's go!,C'est parti !,Los geht's!,¡Vamos allá!,Vamos nessa!,Si parte!,Вперед!,GO!,시작!,開始吧！,开始吧！
+Menu_Sound_MusicVolume,OPTIONS,Music,Musique,Musik,Música,Música,Musica,Музыка,BGM,음악,音樂,音乐
+Menu_Sound_SFXVolume,,SFX,Bruitages,Effekte,Efectos sonoros,Efeitos sonoros,Effetti,Звук,SE,효과음,音效,音效
+Menu_Sound_VoicesVolume,,Voices,Voix,Stimmen,Voces,Vozes,Voci,Голоса,ボイス,음성,聲音,声音
+Menu_Tuto_MoveArms,TUTORIAL,Use the sticks to move your arms,Utilisez les sticks pour bouger les bras,Bewege mit dem Stick deine Arme,Usa la palanca para mover los brazos,Use o botão analógico para mover os braços,Usa lo stick per muovere le braccia,Используйте мини-джойстики/ чтобы двигать руками,スティックで ウデを うごかす,스틱을 움직여 팔을 움직입니다,用搖桿操縱雙臂,用摇杆操纵双臂
+Menu_Tuto_Grab,,Use the triggers to grab the platform,Utilisez les gâchettes pour attraper les plateformes,Halte dich mit den Schultertasten fest,Usa los gatillos para agarrar la plataforma,Use os gatilhos para segurar na plataforma,Usa i grilletti per afferrare la piattaforma,Используйте кнопки ZL и ZR/ чтобы схватиться за платформу,トリガーで アッチコッチ つかむ,트리거를 눌러 플랫폼을 잡습니다,用肩部板機抓住平臺,用肩键抓住平台
+Menu_Tuto_Skip,,Skip the tutorial,Quitter l'initiation,Einführung überspringen,Omitir el tutorial,Pular tutorial,Salta il tutorial,Пропустить обучение,チュートリアルをスキップ,튜토리얼 스킵,跳過教學,跳过教程
+Menu_Score_Score,,Score,Score,Punkte,Puntuación,Pontos,Punti,Счет,スコア,점수,得分,得分
+Menu_Score_Skip,,Skip,Quitter,Überspringen,Omitir,Pular,Salta,Пропустить,スキップ,스킵,跳過,跳过
+Menu_Score_End,RECAP SCORE,Congratulations!,Félicitations !,Glückwunsch!,¡Enhorabuena!,Parabéns!,Complimenti!,Поздравляем!,ヤッタネ！,축하합니다!,恭喜你！,恭喜你！
+Menu_Score_Nb_Player_Dead,,Number of deaths in this run:,Nombre de morts pendant la partie :,Tode bei diesem Parcours:,Número de muertes en esta partida:,Mortes nesta série:,Numero di morti in questo percorso:,Количество смертей во время испытания:,このコースで ツブレた かいすう,이 도전에서 죽은 수:,本輪死亡次數：,本轮死亡次数：
+Menu_Score_NobodyDied_1,,Wow!!!,Waouh !!!,Wow!!!,¡Vaya!,Uau!!!,Wow!!!,Ого!!!,オミゴト！,우와!!!,哇哦！！！,哇哦！！！
+Menu_Score_NobodyDied_2,,Nobody died during this run!,Personne n'est mort pendant cette partie !,Bei diesem Parcours ist niemand gestorben!,¡Nadie ha muerto en esta partida!,Ninguém morreu nessa série!,Nessuno è morto in questo percorso!,Во время испытания обошлось без жертв!,だれも ツブレず コースクリア！,이 도전에서 아무도 죽지 않았습니다!,這一輪下來沒人死掉！,这一轮下来没人死掉！
+Menu_Score_Token,,Tokens found:,Jetons trouvés :,Gefundene Münzen:,Fichas encontradas:,Fichas encontradas:,Gettoni trovati:,Найдено жетонов:,ゲットしたトークン,발견한 토큰 수:,找到金幣數：,找到金币数：
+Menu_Score_Runtime,,Run time:,Temps joué :,Spielzeit:,Tiempo:,Tempo:,Tempo percorso:,Время испытания:,かかったじかん,도전 시간:,本輪用時：,本轮用时：
+Menu_Score_Record,,Best score!,Meilleur temps !,Rekord!,¡Mejor puntuación!,Recorde!,Record!,Лучшее время!,ベストスコア！,최고 점수!,最佳成績！,最佳成绩！
+Menu_Score_GoBackMainMenu,,Go back to main menu,Retourner au menu principal,Zurück zum Hauptmenü,Volver al menú principal,Voltar ao menu principal,Torna al menu principale,Вернуться в главное меню,メインメニューへ,메인 메뉴로 돌아간다,回到主選單,回到主菜单
+Menu_Score_GoToNextWorld,,Go to next run,Lancer le parcours suivant,Zum nächsten Parcours,Ir al siguiente circuito,Ir para a próxima série,Passa al prossimo percorso,Пройти следующее испытание,つぎのコースへ,다음 도전을 시작한다,進行下一輪,进行下一轮
+Menu_ScoreMinigame_BonusStage_1,,Bonus Stage #1,Niveau Bonus n°1,Bonus-Level 1,Fase de bonus n.º 1,Fase Bônus #1,Livello bonus 1,Бонусный уровень №1,ボーナスステージ #1,보너스 스테이지 #1,獎勵關卡一,奖励关卡一
+Menu_ScoreMinigame_BonusStage_2,,Bonus Stage #2,Niveau Bonus n°2,Bonus-Level 2,Fase de bonus n.º 2,Fase Bônus #2,Livello bonus 2,Бонусный уровень №2,ボーナスステージ #2,보너스 스테이지 #2,獎勵關卡二,奖励关卡二
+Menu_ScoreMinigame_BonusStage_3,,Bonus Stage #3,Niveau Bonus n°3,Bonus-Level 3,Fase de bonus n.º 3,Fase Bônus #3,Livello bonus 3,Бонусный уровень №3,ボーナスステージ #3,보너스 스테이지 #3,獎勵關卡三,奖励关卡三
+Menu_ScoreMinigame_BonusStage_4,,Bonus Stage #4,Niveau Bonus n°4,Bonus-Level 4,Fase de bonus n.º 4,Fase Bônus #4,Livello bonus 4,Бонусный уровень №4,ボーナスステージ #4,보너스 스테이지 #4,獎勵關卡四,奖励关卡四
+Menu_ScoreMinigame_FitInShape,MINI GAMES INSTRUCTIONS,Cramped,À l'étroit !,Platzprobleme,Apretado,Apertado,Alle strette,Куча мала!,かくれんぼ,비좁비좁,擠到抽筋,挤到抽筋
+Menu_ScoreMinigame_JustDance,,Let's dance!,Let's dance!,Tanzeinlage,¡A bailar!,Vamos dançar!,Si balla!,Потанцуем?,レッツダンス！,춤추자!,嗨起來！,舞动起来！
+Menu_ScoreMinigame_Basket,,Basketball,Basketball !,Basketball,Baloncesto,Basquete,Basket,Баскетбол,バスケットボール,농구,投籃比賽,投篮比拼
+Menu_ScoreMinigame_FitInShape_HowTo,,Make sure you're all in the white area with nothing sticking out before time runs out!,Placez-vous dans la zone blanche avant la fin du compte à rebours. Rien ne doit dépasser !,Sorge dafür/ dass du komplett im weißen Bereich bist/ bevor die Zeit abläuft. Nichts darf überstehen!,¡Colocaos en la zona blanca/ sin que se salga nada/ antes de que se acabe el tiempo!,Fique dentro da área branca sem nenhuma pontinha para fora antes do tempo acabar!,Posizionati completamente nella zona bianca prima dello scadere del tempo. Niente deve uscire!,Разместитесь в белой зоне/ пока не вышло время. И чтобы из нее ничего не торчало!,じかんぎれに なるまえに ぜんいん カラダを しろいスペースに おしこめ！,시간이 다 가기 전에 하얀 공간에 제대로 들어가 있으세요!,一定要在時間用光之前，確保身體所有部位都在白框內哦！,一定要在时间用光之前，确保身体所有部位都在白框内哦！
+Menu_ScoreMinigame_JustDance_HowTo,,Try to follow the leader's moves and rhythm!,Reproduisez les mouvements de la star et suivez son rythme !,Ahme die vorgegebenen Bewegungen nach und folge dem Rhythmus!,¡Intenta seguir los movimientos y el ritmo del líder!,Tente imitar os movimentos e ritmo do líder!,Riproduci i movimenti del leader e segui il suo ritmo!,Танцуйте в ритме ведущего и попытайтесь повторить все его движения!,リズムに あわせて リーダーの ポーズを マネしよう！,리더의 움직임과 리듬을 따라가보세요!,試著跟上舞王的動作和節奏吧！,试着跟上舞王的动作和节奏吧！
+Menu_ScoreMinigame_Basket_HowTo,,Make as many baskets as possible before the round ends!,Mettez un maximum de paniers avant la fin du compte à rebours !,Erziele so viele Körbe wie möglich/ bevor die Zeit abläuft!,¡Encesta tantas veces como puedas antes de que se acabe la ronda!,Faça quantas cestas puder antes do tempo acabar!,Fai canestro più volte che puoi prima che termini il round!,Забросьте как можно больше мячей/ пока не вышло время!,ゲームセットまでに できるだけ たくさん シュートを キメろ！,라운드가 끝나기 전에 가능한 한 많이 공을 넣으세요!,在回合結束前，盡可能多地投中吧！,在回合结束前，尽可能多地投中吧！
+Menu_ScoreMinigame_Finished,SCORE RECAP MINI GAME,Finished!,Fini !,Beendet!,¡Completado!,Acabou!,Fine!,Пройдено!,そこまで！,종료!,完成！,完成！
+Menu_ScoreMinigame_Matched,,Matched:,Réussi(s) :,Gelungen:,Logrado:,Acertos:,Completato/i:,Попаданий:,せいこう：,맞춤:,成功次數：,成功次数：
+Menu_ScoreMinigame_Missed,,Missed:,Manqué(s) :,Gescheitert:,Fallado:,Erros:,Non completato/i:,Промахов:,しっぱい：,빗나감:,失敗次數：,失败次数：
+Menu_ScoreMinigame_Points,,Points:,Points :,Punkte:,Puntos:,Pontos:,Punti:,Очки:,ポイント：,점수:,得分：,得分：
+Menu_ScoreMinigame_Reward,,Reward:,Récompense :,Belohnung:,Recompensa:,Recompensa:,Ricompensa:,Награда:,ごほうび：,보상:,獎勵：,奖励：
+Menu_ScoreMinigame_NoReward,,No reward,Pas de récompense !,Keine Belohnung,¡Sin recompensa!,Sem recompensa,Nessuna ricompensa,Нет награды,ごほうびナシ,보상 없음,無獎勵,无奖励
+Menu_Main_Coop,MAIN MENU,Cooperative,Coopération ,Kooperativ,Cooperativo,Cooperativo,Co-op,Кооперативный режим,キョーリョク,협동,合作模式,合作模式
+Menu_Main_Versus,,Versus,Versus,Gegeneinander,Duelo,Contra,Sfida,Противостояние,タイセン,대전,對抗模式,对抗模式
+Menu_Main_Solo,,Solo,Solo,Solo,Un jugador,Solo,Solitaria,Одиночный режим,ボッチ,싱글,單人模式,单人模式
+Menu_Main_Machine,,The Machine,La machine,Die Maschine,La máquina,A Máquina,La macchina,Жетоноприемник,スロット,기계,老虎機,老虎机
+Menu_Main_Trophies,,Trophies,Trophées,Trophäen,Trofeos,Troféus,Trofei,Трофеи,トロフィー,트로피,獎盃,奖杯
+Menu_Main_Options,,Options,Options,Optionen,Opciones,Opções,Opzioni,Опции,オプション,옵션,選項,选项
+Menu_Main_Credits,,Credits,Crédits,Mitwirkende,Créditos,Créditos,Riconoscimenti,Титры,つくったひと,크레딧,製作人員,制作人员
+Menu_Main_Coop_Text,,Reach the flag as a group,Atteignez le drapeau tous ensemble,Erreicht die Flagge als Gruppe,Alcanzad la bandera todos juntos,Alcance a bandeira em grupo,Raggiungi la bandiera insieme agli altri,Доберитесь до флага все вместе,チームで チカラを あわせて フラッグを めざせ,친구와 함께 깃발에 도달하세요,以小組為單位一起抵達旗幟吧,以小组为单位一起抵达旗帜吧
+Menu_Main_Versus_Text,,Be the first to reach the flag,Soyez le premier à atteindre le drapeau,Erreiche die Flagge als Erster,Sé el primero en alcanzar la bandera,Seja o primeiro a chegar na bandeira,Raggiungi la bandiera prima degli altri,Доберитесь до флага первым,だれよりも はやく フラッグを めざせ,가장 먼저 깃발에 도달하세요,搶先抵達旗幟吧,抢先抵达旗帜吧
+Menu_Main_Solo_Text,,Play at your own pace,Jouez à votre propre rythme,Spiele in deinem eigenen Tempo,Juega a tu propio ritmo,Jogue no seu próprio ritmo,Gioca al tuo ritmo,Играйте в собственном темпе,じぶんの ペースで きままに プレイ,자신만의 페이스로 게임을 즐기세요,按自己的節奏慢慢來吧,按自己的节奏慢慢来吧
+Menu_Main_Machine_Text,,Use your tokens to unlock new costumes!,Dépensez vos jetons pour débloquer de nouveaux costumes,Schalte mit deinen Münzen neue Kostüme frei!,¡Usa tus fichas para desbloquear nuevos disfraces!,Use suas fichas para desbloquear novos visuais!,Usa i gettoni per sbloccare nuovi costumi!,Используйте жетоны/ чтобы открыть новые костюмы!,トークンで あたらしい コスチュームを ゲット！,토큰을 사용하여 새로운 의상을 해금하세요!,使用金幣解鎖新服裝吧！,使用金币解锁新套装吧！
+Menu_Main_Trophies_Text,,Trophy gallery,Galerie de trophées,Trophäengalerie,Galería de trofeos,Galeria de Troféus,Galleria dei trofei,Галерея трофеев,トロフィーギャラリー,트로피 갤러리,獎盃展示,奖杯展览馆
+Menu_Main_Options_Text,,Settings,Options,Einstellungen,Ajustes,Configurações,Impostazioni,Настройки,せってい,설정,設置,设置
+Menu_Main_Worlds_Highscore,,Highscore:,Meilleur score :,Rekord:,Récord:,Pontuações:,Record:,Лучший результат:,ベストタイム,최고 기록:,高分：,高分：
+Menu_Main_Worlds_Rank,,Rank:,Rang :,Rang:,Posición:,Classificação:,Posizione:,Место:,ランク：,랭크:,排名：,排名：
+Menu_Options_Voices,,Voices,Voix,Stimmen,Voces,Vozes,Voci,Голоса,ボイス,음성,聲音,声音
+Menu_Options_SFX,,SFX,Bruitages,Effekte,Efectos sonoros,Efeitos sonoros,Effetti,Звук,SE,효과음,音效,音效
+Menu_Options_Music,,Music,Musique,Musik,Música,Música,Musica,Музыка,BGM,음악,音樂,音乐
+Menu_Machine_YouHave,,You have,Vous avez,Du hast,Tienes,Você tem,Hai,Жетонов в наличии:,もってるトークン：,획득:,你有,你有
+Menu_Machine_Tokens,,tokens,jetons,Münzen,fichas,fichas,gettoni,,,토큰,枚金幣,枚金币
+Menu_Machine_SpendTokens,,Spend tokens,Dépenser les jetons,Münzen ausgeben,Gastar fichas,Gastar fichas,Spendi gettoni,Потратить жетоны,トークンをつかう,사용한 토큰,使用金幣,使用金币
+Menu_Machine_YouNeed,,You need,Il faut,Du brauchst noch,Necesitas,Você precisa de,Ti servono,Нужно еще жетонов:,ガチャれるまで あと,필요:,你還需要,你还需要
+Menu_Machine_More,,more tokens,jetons supplémentaires,Münzen,fichas más,mais fichas,gettoni in più,,,토큰,枚金幣才行,枚金币才行
+Menu_Machine_LetsRoll,,Let's roll!!!,C'est parti !!!,Auf geht's!,¡En marcha!,Vamos nessa!!!,Si parte!!!,Погнали!!!,ガチャる！,굴러보자!!!,轉起來！！！,转起来！！！
+Menu_Machine_Congratulations,,Congratulations!,Félicitations !,Glückwunsch!,¡Enhorabuena!,Parabéns!,Complimenti!,Поздравляем!,やったね！,축하합니다!,恭喜你！,恭喜你！
+Menu_Machine_NewCostumeUnlocked,,New costume unlocked!,Nouveau costume débloqué !,Neues Kostüm freigeschaltet!,¡Nuevo disfraz desbloqueado!,Novo visual desbloqueado!,Nuovo costume sbloccato!,Открыт новый костюм!,おニューのコスチューム ゲット！,새로운 의상 해제!,解鎖了新服裝！,解锁了新套装！
+Menu_Back,,Back,Retour,Zurück,Atrás,Voltar,Indietro,Назад,もどる,뒤로,返回,返回
+Menu_Confirm,,Confirm,Confirmer,Bestätigen,Confirmar,Confirmar,Conferma,Подтвердить,OK,확인,確認,确认
+Menu_Splashscreen_CNC,SPLASH SCREEN,With the support of the Centre national du cinéma et de l’image animée,Avec le soutien du Centre national du cinéma et de l’image animée,Mit Unterstützung des Centre national du cinéma et de l’image animée,Con el apoyo del Centre national du cinéma et de l’image animée,Com o apoio do Centre national du cinéma et de l’image animée,Con il supporto del Centre national du cinéma et de l'image animée,При поддержке Centre national du cinéma et de l’image animée,Centre national du cinéma et de l’image animée 支援作品,Centre national du cinéma et de l’image animée 지원,感謝Centre national du cinéma et de l’image animée的大力支持,感谢Centre national du cinéma et de l’image animée的大力支持
+InGame_NewRecord,IN GAME (When finishing a level while beating the best time recorded),New record!,Nouveau record !,Neuer Rekord!,¡Nuevo récord!,Novo recorde!,Nuovo record!,Новый рекорд!,しんきろく！,신기록!,全新紀錄！,全新纪录！
+InGame_Skip,NAVIGATION,Skip,Passer,Überspringen,Omitir,Pular,Salta,Пропустить,スキップ,스킵,跳過,跳过
+InGame_BackToMainMenu,NAVIGATION,Back to main menu,Retour au menu principal,Zurück zum Hauptmenü,Volver al menú principal,Voltar ao menu principal,Torna al menu principale,Назад в главное меню,メインメニューへ,메인 메뉴로 돌아가기,回到主選單,回到主菜单
+Trophy_NobodyDiedLevel_Solo,TROPHEES,On my own,Besoin de personne,Allein geschafft,A mi aire,Sozinho,Senza aiuti,Одиночка,コドクなたび,나만의 방식으로,獨行俠,独行侠
+Trophy_Description_NobodyDiedLevel_Solo,,Finish a level in Solo mode without dying,Terminer un niveau en mode Solo sans mourir,Schließe einen Level im Solo-Modus ab/ ohne zu sterben,Termina un nivel en modo un jugador sin morir,Termine uma fase no modo Solo sem morrer.,Completa un livello in modalità Solitaria senza morire,Пройти уровень в одиночном режиме без смертей,ボッチプレイで いちども ツブレずに ステージを クリアする,싱글 모드에서 죽지 않고 스테이지를 끝낸다,不損一命以單人模式完成一關,不损一命以单人模式完成一关
+Trophy_NobodyDiedLevel_Coop,,Teamwork,Esprit d'équipe,Teamwork,Trabajo en equipo,Trabalho em Equipe,Gioco di squadra,Командная работа,チームワーク,협동,眾人拾柴,众人拾柴
+Trophy_Description_NobodyDiedLevel_Coop,,Finish a level in Coop mode without anyone dying,Terminer un niveau en mode Co-op sans que personne ne meure,Schließt einen Level im Koop-Modus ab/ ohne dass jemand stirbt,Termina un nivel en modo cooperativo sin que muera nadie,Termine uma fase no modo Cooperativo sem que ninguém morra.,Completa un livello in modalità Co-op senza morire,Пройти уровень в кооперативном режиме без смертей,キョーリョクプレイで だれも ツブレずに ステージを クリアする,협동 모드에서 아무도 죽지 않고 스테이지를 끝낸다,全員不死以合作模式完成一關,全员不死以合作模式完成一关
+Trophy_NobodyDiedRun_Solo,,Elite,L'élite,Elite,Élite,Elite,Élite,Избранный,エリート,엘리트,天選之子,天选之子
+Trophy_Description_NobodyDiedRun_Solo,,Finish a run in Solo mode without dying,Terminer un parcours en mode Solo sans que le joueur meure,Schließe einen Parcours im Solo-Modus ab/ ohne zu sterben,Termina un circuito en modo un jugador sin morir,Termine uma série no modo Solo sem morrer.,Completa un percorso in modalità Solitaria senza morire,Пройти испытание в одиночном режиме без смертей,ボッチプレイで いちども ツブレずに コースを クリアする,싱글 모드에서 죽지 않고 처음부터 끝까지 도전을 끝낸다,不損一命以單人模式完成一輪,不损一命以单人模式完成一轮
+Trophy_NobodyDiedRun_Coop,,Dream team,Dream team,Dream-Team,Equipazo,Equipe dos Sonhos,Squadra dei sogni,Лучшие из лучших,ドリームチーム,드림팀,夢幻組合,梦幻组合
+Trophy_Description_NobodyDiedRun_Coop,,Finish a run in Coop mode without anyone dying,Terminer un parcours en mode Co-op sans qu'aucun joueur ne meure,Schließt einen Parcours im Koop-Modus ab/ ohne dass jemand stirbt,Termina un circuito en modo cooperativo sin que muera nadie,Termine uma série no modo Cooperativo sem que ninguém morra.,Completa un percorso in modalità Co-op senza morire,Пройти испытание в кооперативном режиме без смертей,キョーリョクプレイで だれも ツブレずに コースをクリアする,협동 모드에서 아무도 죽지 않고 처음부터 끝까지 도전을 끝낸다,全員不死以合作模式完成一輪,全员不死以合作模式完成一轮
+Trophy_FirstMinigameRope,,On the road to a minigame!,En route pour un mini jeu !,Unterwegs zu einem Minispiel!,¡De camino a un minijuego!,A caminho de um minijogo!,Verso il minigioco!,Вперед за мини-игрой!,チャンスをつかめ！,미니게임 도전!,前往小遊戲囉！,前往小游戏喽！
+Trophy_Description_FirstMinigameRope,,Grab the rope before it disappears,Attraper la corde magique avant sa disparition,Ergreife das Seil/ bevor es verschwindet,Agarra la cuerda antes de que desaparezca,Agarre a corda antes que ela desapareça.,Afferra la corda prima che scompaia,Ухватиться за волшебную веревку до того/ как она исчезнет,ロープが きえるまえに つかむ,로프를 사라지기 전에 잡는다,趕快抓住繩子，別讓它消失,赶快抓住绳子，别让它消失
+Trophy_FirstToken,,One token for the machine!,Un jeton pour la machine !,Eine Münze für die Maschine!,¡Una ficha para la máquina!,Uma ficha para a máquina!,Un gettone per la macchina!,О/ монетка!,スロットへのトビラ,기계에 쓸 토큰 하나!,拿去花吧！,拿去花吧！
+Trophy_Description_FirstToken,,Collect a token,Collecter un jeton,Sammle eine Münze,Consigue una ficha,Colete uma ficha.,Ottieni un gettone,Подобрать жетон,トークンを 1つゲットする,토큰을 모은다,收集到一枚金幣,收集到一枚金币
+Trophy_FinishAllRuns,,Globe-trotter,Globe-trotter,Weltenbummler,Trotamundos,Viajante,Giramondo,Мастер паркура,せかいいっしゅう！,여행가,環球漫遊者,环球漫游者
+Trophy_Description_FinishAllRuns,,Finish all the runs,Terminer tous les parcours,Schließe alle Parcours ab,Termina todos los circuitos,Termine todas as séries.,Completa tutti i percorsi,Пройти все испытания,ぜんぶのコースを クリアする,게임을 완료한다,完成所有關卡,完成所有关卡
+Trophy_CloneRun,,Among the clones,Entre clones,Unter Klonen,Entre los clones,Entre os Clones,Tra i cloni,Атака клонов,クローンチーム,클론 중에서,千人一面,千人一面
+Trophy_Description_CloneRun,,Finish a run while all wearing the same outfit,Finir un parcours en ayant tous la même tenue,Schließt einen Parcours ab/ bei dem ihr alle gleich ausstaffiert seid,Termina un circuito llevando todos el mismo atuendo,Termine uma série com todos usando o mesmo visual.,Completa un percorso con lo stesso abbigliamento per tutti,Пройти совместное испытание в одинаковых костюмах,コスチュームも キャラクターも ぜんぶ おそろいにして コースをクリア,같은 의상을 입은 채로 도전을 끝낸다,所有人以同一服裝扮完成一輪,所有人以同一套装扮完成一轮
+Trophy_FinishAllFitIn,,Snug,A l'étroit,Auf engstem Raum,Ajustado,Aconchegante,Aderente,В тесноте/ да не в обиде,かくれんぼ めいじん！,포근함,擠擠暖和,挤挤暖和
+Trophy_Description_FinishAllFitIn,,Reach the last wave,Atteindre la dernière vague,Erreiche die letzte Welle,Alcanza la última ola,Chegue à última onda.,Raggiungi l'ultima ondata,Добраться до последнего этапа,かくれんぼを さいしゅうチャレンジまで プレイする,마지막 웨이브에 도달한다,挺到最後一波,挺到最后一波
+Trophy_FinishBasket,,MVP,MVP,Wertvollster Spieler,MVP,Jogador Profissional,Migliore in campo,Лучший игрок,MVP,MVP,全場最佳,全场最佳
+Trophy_Description_FinishBasket,,Score all the points in a basketball game,Mettre tous les paniers lors d'une partie de basket-ball,Erziele alle Punkte bei einem Basketballspiel,Consigue todos los puntos en una partida de baloncesto,Faça todos os pontos em um jogo de basquete.,Fai sempre canestro in una partita di basket,Заработать все очки в игре в баскетбол,バスケットボールで パーフェクトスコアを キメる,농구 게임에서 모든 포인트를 기록한다,投籃過程中每發必中,投篮过程中每发必中
+Trophy_SlamDunk,,Slam Dunk,Slam Dunk,Dunking,Machaque,Enterrada,Schiacciata,Cлэм-данк,スラムダンク,슬램덩크,空中大灌籃,空中大灌篮
+Trophy_Description_SlamDunk,,Do a dunk while playing Basketball,Faire un dunk lors d'une partie de basket-ball,Erziele beim Basketball ein Dunking,Haz un mate jugando al baloncesto,Faça uma enterrada durante um jogo de basquete.,Esegui una schiacciata in una partita di basket,Выполнить бросок сверху во время игры в баскетбол,バスケットボールで ダンクシュートをキメる,농구 중에 덩크를 성공한다,在投籃比拼中使出一招灌籃,在投篮比拼中使出一招灌篮
+Trophy_FinishLetsDance,,Rock Star,Rock Star,Rockstar,Estrella de rock,Estrela do Rock,Rockstar,Рок-звезда,ダンシングスター,록스타,搖滾巨星,摇滚巨星
+Trophy_Description_FinishLetsDance,,Finish a dance routine without missing any moves,Réussir une chorégraphie sans le moindre faux mouvement,Schließe eine Tanzeinlage ab/ ohne eine Bewegung zu versäumen,Termina una coreografía sin fallar ningún movimiento,Termine uma dança sem errar nenhum movimento.,Completa una coreografia eseguendo tutti i movimenti,Исполнить танец/ правильно повторив все движения,ダンスの ふりを いちども まちがえずに こなす,실수를 하지 않고 댄스를 마친다,一次不錯地跟著跳完一支舞,一次不错地跟着跳完一支舞
+Trophy_FinishEasyRun,,Victory,Victoire,Gesamtsieg,Victoria,Vitória,Vittoria,Победа,おめでとう！,승리,大獲全勝,大获全胜
+Trophy_Description_FinishEasyRun,,Finish all the standard runs,Terminer les parcours standard,Schließe alle Standard-Parcours ab,Termina todos los circuitos normales,Termine todas as séries comuns.,Completa tutti i percorsi standard,Пройти все обычные испытания,ノーマルコースを ぜんぶ クリアする,게임을 완료한다 (일반),完成所有標準關卡,完成所有标准关卡
+Trophy_UnlockHardRun,,Stop fooling around,Fini la rigolade,Jetzt wird's ernst,Basta de tonterías,Chega de Brincadeira,Fine della ricreazione,Шутки в сторону!,まだまだ！,진정한 시작,別鬼混了,动真格的
+Trophy_Description_UnlockHardRun,,Unlock hardcore runs,Débloquer les parcours difficiles,Schalte schwere Parcours frei,Desbloquea los circuitos difíciles,Desbloqueie as séries difíceis,Sblocca tutti i percorsi difficili,Разблокировать сложные испытания,ゲキムズコースを アンロックする,하드코어 도전을 해제한다,解鎖硬核關卡,解锁硬核关卡
+Trophy_PassObject,,Quarterback,Quarterback,Quarterback,Quarterback,Quarterback,Quarterback,Отличный пас!,ナイスパス！,쿼터백,超級四分衛,超级四分卫
+Trophy_Description_PassObject,,Pass an object to another player,Réussir une passe avec un objet,Wirf einem anderen Spieler ein Objekt zu,Pásale un objeto a otro jugador,Lance um objeto para outro jogador.,Passa un oggetto a un altro giocatore,Перебросить предмет другому игроку,もうひとりの プレイヤーに アイテムを パスする,물체를 다른 플레이어에게 준다,將一個物體遞給其他玩家,将一个物体递给其他玩家
+Trophy_FinishRunWithoutNoobGloves,,Emancipated,Affranchi,Losgelöst,Emancipado,Emancipado,Emancipazione,Независимость,スデで しょうぶ！,자유,解放雙手,解放双手
+Trophy_Description_FinishRunWithoutNoobGloves,,Finish a run without the beginners gloves,Terminer un parcours sans les gants d'assistance,Schließe einen Parcours ohne Anfängerhandschuhe ab,Termina un circuito sin los guantes de principiante,Termine uma série sem as luvas de iniciante.,Completa un percorso senza i guanti da principiante,Пройти испытание без перчаток новичка,オタスケグローブなしで コースを クリアする,초보자의 장갑 없이 도전을 끝낸다,不戴新手手套完成一輪,不戴新手手套完成一轮
+Trophy_JetPack,,Love is in the air,De l'amour dans l'air,Liebe liegt in der Luft,El amor está en el aire,O Amor Está no Ar,C'è amore nell'aria,На крыльях любви,バルーンるんるん,사랑은 공중에,愛的香氣,爱的香气
+Trophy_Description_JetPack,,Survive an air-balloon trip for 30 seconds,Survivre à un voyage en ballon de 30 secondes,Überlebe eine Ballonfahrt 30 Sekunden lang,Sobrevive a un viaje en globo durante 30 segundos,Sobreviva a uma viagem de balão por 30 segundos.,Sopravvivi a un viaggio in mongolfiera per 30 secondi,Продержаться на воздушном шарике 30 секунд,バルーンに のったまま 30びょう キープ,30초간 풍선 여행에서 살아남는다,在熱氣球關卡存活30秒,在热气球关卡存活30秒
+Trophy_NobodyDiedRun_White,,Snow-white,Toile neuve,Schneeweiß,Blancanieves,Branca de Neve,Biancaneve,Белоснежка,アタマ まっしろ！,스노우화이트,白血公主,白血公主
+Trophy_Description_NobodyDiedRun_White,,Finish the white run without dying,Finir le parcours blanc sans mourir,Schließe den weißen Parcours ab/ ohne zu sterben,Termina el circuito blanco sin morir,Termine a série branca sem morrer.,Completa il percorso bianco senza morire,Пройти испытание с белыми платформами без смертей,まっしろコースを いちども ツブレずに クリアする,죽지 않고 화이트를 끝낸다,不損一命完成雪白關卡,不损一命完成雪白关卡
+Trophy_HelpObject,,Don’t just stand there!,Ne restez pas inactifs !,Steht nicht bloß rum!,¡No te quedes ahí!,Não Fique aí Parado!,Non startene lì così!,Не стой столбом!,なかまを オタスケ！,거기 서 있지 마!,別傻站著啊！,别傻站着啊！
+Trophy_Description_HelpObject,When you first reach the 'bowl' a small handle appears. Pulling it will provide you with items that will help get the others to destination,Pull the assistance handle,Tirer sur la poignée de soutien,Zieh am Unterstützungsgriff,Tira de la palanca de ayuda,Puxe a manivela de ajuda.,Tira la maniglia dell'assistenza,Потянуть рычаг помощи,オタスケレバーを ひく,지원 핸들을 당긴다,拉動輔助拉桿,拉动辅助拉杆
+Trophy_HelpPlatforms,,Assistance device,Rampe de secours,Unterstützungsapparat,Dispositivo de ayuda,Dispositivo de Ajuda,Dispositivo di soccorso,Спасительная платформа,オタスケそうち,지원 기기,輔助工具,辅助工具
+Trophy_Description_HelpPlatforms,,Discover the assistance device,Découvrir ce dipositif d'extrême urgence,Entdecke den Unterstützungsapparat,Descubre el dispositivo de ayuda,Encontre o dispositivo de ajuda.,Scopri il dispositivo di soccorso,Обнаружить вспомогательное приспособление,オタスケそうちを はっけんする,지원 기기를 발견한다,發現輔助工具,发现辅助工具
+Trophy_AllPlayersHappyEmote,,Ode to joy,L'hymne à la joie,Ode an die Freude,Himno a la alegría,Celebração de Alegria,Inno alla gioia,Ода к радости,みんなで あそぶと たのしいね,환희의 찬가,歡樂頌,欢乐颂
+Trophy_Description_AllPlayersEmote,,Four players do a happy emote at the same time,Quatre joueurs doivent exprimer une même émotion simultanément,Vier Spieler zeigen sich gleichzeitig glücklich,Cuatro jugadores expresan felicidad al mismo tiempo,Quatro jogadores expressam felicidade ao mesmo tempo,Quattro giocatori esprimono felicità contemporaneamente,Показать эмоцию радости вчетвером одновременно,4にんで どうじに 「ウレシみ」の ジェスチャーをする,네 명의 플레이어가 동시에 행복 감정표현을 한다,四個玩家同時做出開心的表情,四个玩家同时做出开心的表情
+Trophy_SpendTokens,,Spendthrift,Dépensier,Verschwenderisch,Derrochador,Perdulário,Mani bucate,Транжира,スロットマニア,낭비벽,揮金如土,挥金如土
+Trophy_Description_SpendTokens,,Spend 100 tokens in the machine,Dépenser 100 jetons dans la machine,Gib 100 Münzen bei der Maschine aus,Gasta 100 fichas en la máquina,Gaste 100 fichas em uma máquina.,Spendi 100 gettoni nella macchina,Потратить жетонов: 100,スロットマシンで トークンを 100まい つかう,100 토큰을 기계에 사용한다,在老虎機中花費100個金幣,在老虎机中花费100个金币
+Trophy_AllPlayersChainElectric,,Conductor,Conducteur,Leiter,Conductor,Condutor,Conduttore,Проводник,ビビッときたね,지휘자,優良導體,优良导体
+Trophy_Description_AllPlayersChainElectric,,Form an electric chain of four characters,Former une chaîne humaine électrique,Bildet eine elektrische Kette aus vier Charakteren,Forma una cadena eléctrica de cuatro personajes,Forme uma corrente elétrica de quatro personagens.,Forma una catena elettrica di quattro personaggi,Образовать электрическую цепь из четырех игроков,4にん つながった じょうたいで ビリビリする,네 캐릭터로 된 전기 사슬을 만든다,四名玩家連成一條電路,四名玩家连成一条电路
+Trophy_GotAllTokensFromAllLevels,,Collector,Collectionneur,Sammler,Coleccionista,Coletor,Collezionista,Коллекционер,コレクター,수집가,大收藏家,大收藏家
+Trophy_Description_GotAllTokensFromAllLevels,,Collect all the tokens from all levels,Récupérer tous les jetons de tous les niveaux,Sammle alle Münzen aus allen Leveln,Consigue todas las fichas de todos los niveles,Colete todas as fichas em todas as fases.,Ottieni tutti i gettoni di tutti i livelli,Собрать все жетоны на всех уровнях,ぜんぶの ステージの トークンを 1まいのこらず ゲットする,모든 스테이지에서 모든 토큰을 모은다,集齊所有關卡中的所有金幣,集齐所有关卡中的所有金币
+Trophy_UnlockAllCostumes,,Complete cloakroom,Dressing complet,Vollständige Garderobe,Vestuario completo,Guarda-roupa Completo,Guardaroba completo,Модник,ファッショニスタ,의상실 완성,全套行頭,全套行头
+Trophy_Description_UnlockAllCostumes,,Unlock all costumes,Débloquer tous les costumes,Schalte alle Kostüme frei,Desbloquea todos los disfraces,Desbloqueie todos os visuais.,Sblocca tutti i costumi,Открыть все костюмы,コスチュームを ぜんしゅるい あつめる,모든 의상을 모은다,解鎖所有服裝,解锁所有套装
+Trophy_TrophyUnlocked,,Trophy unlocked!,Trophée débloqué !,Trophäe freigeschaltet!,¡Trofeo desbloqueado!,Troféu desbloqueado!,Trofeo sbloccato!,Трофей получен!,トロフィーゲット！,트로피 해제!,解鎖了一個獎盃！,解锁了一个奖杯！
+Credits_Direction,CREDITS,Direction,Réalisation,Leitung,Dirección,Direção,Realizzazione,Над игрой работали,ディレクション,방향,遊戲製作,游戏制作
+Credits_GameDesigner,,Game designer,Game designer,Spieldesign,Diseño de juego,Desenvolvimento de jogo,Game designer,Геймдизайнер,ゲームデザイナー,게임 디자이너,遊戲設計,游戏设计
+Credits_ArtisticDesigner,,Art Designer,Directeur artistique,Grafik,Diseño de arte,Desenvolvimento de arte,Direzione artistica,Арт-дизайнер,アートデザイナー,아트 디자이너,藝術設計,艺术设计
+Credits_Programer,,Programmer,Programmeuse,Programmierung,Programación,Programação,Programmazione,Программист,プログラマー,프로그래머,程式設計,编程
+Credits_SDComposer,,Sound designer and composer,Sound designer et compositeur,Sounddesign und Komposition,Diseño de sonido y música,Desenvolvimento de som e composição,Sound designer e compositore,Звукорежиссер и композитор,サウンドデザイナー/コンポーザー,사운드 디자이너 & 작곡가,音效及配樂,音效及配乐
+Credits_Voices,,The voices,Les voix,Stimmen,Las voces,As vozes,Le voci,Актеры озвучивания,声の出演,성우,配音,配音
+Credits_Diva,,Diva,Voix de Diva,Diva,Diva,Diva,Diva,Дива,ディーバ,디바,女神,女神
+Credits_Kawaii,,Kawaii,Voix de Kawaii,Kawaii,Kawaii,Kawaii,Kawaii,Кавай,カワィー,카와이,卡哇伊,卡哇伊
+Credits_Grumpy,,Grumpy,Voix de Grincheux,Brummbär,Gruñón,Grumpy,Brontolo,Ворчун,オコッタ,툴툴이,愛生氣,爱生气
+Credits_Dopey,,Dopey,Voix de Simplet,Seppl,Mudito,Dopey,Cucciolo,Простачок,ボケット,멍청이,糊塗蛋,糊涂蛋
+Credits_Publishing,,Publishing,Édition,Veröffentlicht von,Edición,Publicação,Edizione,Издательство,パブリッシング,배급,發行商,发行商
+Credits_SwitchPorting,,Porting,Portage,Portierung,Conversión,Adaptação,Portabilità,Переиздание,移植,이식,移植團隊,移植团队
+Credits_QA,,QA,Q.A et testing fonctionnel,QS,Control de calidad,Controle de qualidade,QA,Контроль качества,QA,QA,QA,QA
+Credits_PR_Loca,,PR and Localisation,Relations presse et localisation,PR und Lokalisierung,RR. PP. y localización,Relações públicas e localização,PR e localizzazione,PR и локализация,PR/ローカライズ,홍보 및 현지화,行銷及本地化,营销及本地化
+Credits_SpecialThanks,,Special thanks,Remerciements particuliers,Besonderer Dank an,Agradecimientos especiales,Agradecimentos especiais,Ringraziamenti speciali,Особая благодарность,SPECIAL THANKS,고마운 사람들,特別感謝,特别鸣谢
+Credits_Website,,Website,Website,Website,Página web,Site,Sito web,Сайт,ウェブサイト,웹사이트,網站設計,网站设计
+Credits_Trailer,,Trailer,Trailer,Trailer,Tráiler,Trailer,Trailer,Трейлер,トレーラー,트레일러,預告製作,预告制作
+Credits_Captions,,Captions,Captation,Video-Aufnahmen,Captura de vídeo,Legendas,Cattura video,Видеомонтаж,キャプチャー,캡션,視頻獲取,视频采集
+Credits_Playtester,,Playtesters,Playtesters,Tester,Testeadores,Jogadores de teste,Tester,Тестировщики,デバッグ,플레이테스터,遊戲測試員,游戏测试员
+Credits_CNC,,With the support of the Centre national du cinéma et de l’image animée,Avec le soutien du Centre national du cinéma et de l’image animée,Mit Unterstützung des Centre national du cinéma et de l’image animée,Con el apoyo del Centre national du cinéma et de l’image animée,Com o apoio do Centre national du cinéma et de l’image animée,Con il supporto del Centre national du cinéma et de l'image animée,При поддержке Centre national du cinéma et de l’image animée,Centre national du cinéma et de l’image animée 支援作品,Centre national du cinéma et de l’image animée 지원,感謝Centre national du cinéma et de l’image animée的大力支持,感谢Centre national du cinéma et de l’image animée的大力支持
+Menu_Pause_Title,,Pause menu,Menu Pause,Pause-Menü,Menú de pausa,Menu de Pausa,Menu di pausa,Меню паузы,ポーズメニュー,일시 정지 메뉴,暫停選單,暂停菜单
+Menu_Pause_Resume,,Resume,Reprendre,Fortfahren,Continuar,Continuar,Riprendi,Продолжить,ゲームにもどる,재개,繼續,继续
+Menu_Pause_RestartLevel,,Restart level,Recommencer le niveau,Level neu starten,Reiniciar el nivel,Reiniciar fase,Ricomincia livello,Перезапустить уровень,ステージやりなおし,스테이지 재시작,本關重來,本关重来
+Menu_Pause_RestartRun,,Restart run,Recommencer le parcours,Parcours neu starten,Reiniciar el circuito,Reiniciar série,Ricomincia percorso,Пройти испытание заново,コースやりなおし,도전 재시작,本輪重來,本轮重来
+Menu_Languages_Title,,Languages,Langues,Sprachen,Idiomas,Idiomas,Lingue,Языки,言語きりかえ,언어,語言,语言
+Menu_Minigame_Start,,Start,Commencer,Starten,Empezar,Iniciar,Inizia,Начать,はじめる,시작,開始,开始
+Menu_Tuto_MoveArms_Switch,,Use the sticks to move your arms,Utilisez les sticks pour bouger les bras,Bewege mit dem Stick deine Arme,Usa la palanca para mover los brazos,Use o botão analógico para mover os braços,Usa lo stick per muovere le braccia,Используйте мини-джойстики/ чтобы двигать руками,スティックで ウデを うごかす,스틱을 움직여 팔을 움직입니다,用搖桿操縱雙臂,用摇杆操纵双臂
+Menu_Tuto_Grab_Switch,,Use the shoulder buttons to grab the platforms,Utilisez les boutons latéraux pour attraper les plateformes,Halte dich mit den Schultertasten fest,Usa los botones laterales para agarrar la plataforma,Use os botões superiores para segurar na plataforma,Usa i pulsanti dorsali per afferrare la piattaforma,Используйте кнопки ZL и ZR/ чтобы схватиться за платформу,ZL/ZRボタンで アッチコッチ つかむ,숄더 버튼을 눌러 플랫폼을 잡습니다,用肩部按鈕抓住平臺,用肩键抓住平台
+Menu_Hold_Continue,,Hold to continue,Maintenir pour continuer,Zum Fortfahren halten,Mantén pulsado para continuar,Segure para continuar,Tieni premuto per continuare,Зажмите/ чтобы продолжить,ながおしで コンティニュー,꾹 눌러 이어하기,長按以繼續,长按以继续
+Language_English,,English,English,English,English,English,English,English,English,English,English,English
+Language_French,,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français
+Language_German,,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch
+Language_Spanish,,Español,Español,Español,Español,Español,Español,Español,Español,Español,Español,Español
+Language_Italian,,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano
+Language_PortugueseBra,,Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil),Português (Brasil)
+Language_Russian,,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский,Pусский
+Language_Japanese,,日本語,日本語,日本語,日本語,日本語,日本語,日本語,にほんご,日本語,日本語,日本語
+Language_Korean,,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어
+Language_ChineseTra,,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文
+Language_ChineseSim,,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文,简体中文
+Trophy_Buoy,"C'est un clin d'oeil à la chanson ""I believe I can Fly""",I believe I can Fly,I believe I can Fly,I believe I can fly,I believe I can fly,Eu Posso Voar,I believe I can fly,I believe I can fly,おソラも とべるはず！,언젠가 저 하늘을 높이 날을 수 있어요,I believe I can fly,I believe I can fly
+Credits_Fonts,,Fonts,Polices,Schrifttypen,Fuentes,Fontes,Caratteri,Шрифт,フォント,폰트,字體,字体
+Options_ResetDefault,,Reset to default,Réinitialiser,Auf Standard zurücksetzen,Restaurar por defecto,Restaurar configuração padrão,Ripristina predefiniti,По умолчанию,さいしょの せっていに もどす,기본값으로 초기화,恢復初始設置,恢复默认设置
+Options_Resolution,,Resolution,Résolution,Auflösung,Resolución,Resolução,Risoluzione,Разрешение,解像度,해상도,解析度,分辨率
+Options_DisplayMode,,Display mode,Mode d'affichage,Anzeigemodus,Modo de pantalla,Modo de exibição,Visualizzazione,Режим отображения,ディスプレイモード,화면 모드,顯示設置,显示模式
+Options_Fullscreen,,Fullscreen,Plein écran,Vollbild,Pantalla completa,Tela inteira,Schermo intero,На весь экран,フルスクリーン,전체화면,全螢幕,全屏
+Options_FullscreenOn,,On,Oui,Ein,Sí,Sim,On,Вкл,オン,켜기,關閉,开启
+Options_FullsreenOff,,Off,Non,Aus,No,Não,Off,Выкл,オフ,끄기,開啟,关闭
+Options_Borderless,,Borderless,Sans bordure,Randlos,Sin bordes,Sem borda,Senza bordi,В окне без рамки,ボーダーレス,경계 없는 창모드,無邊全螢幕,无边框全屏
+Options_Monitor,,Monitor,Moniteur,Monitor,Monitor,Monitor,Monitor,Монитор,モニター,모니터,顯示器,显示器模式
+Options_Controls,,Controls,Contrôles,Steuerung,Controles,Controles,Comandi,Управление,そうさ,조작,控制設置,控制设置
+Options_GamepadMode,,Gamepad mode,Mode de manette,Gamepad-Modus,Modo de mando,Modo gamepad,Modalità Controller,Управление контроллером,コントローラーモード,게임패드 모드,手柄設置,手柄模式
+Options_LeftGrab,,Left grab,Attraper main gauche,Links zugreifen,Agarrar izquierda,Lado esquerdo,Afferra a sinistra,Схватиться левой рукой,つかむ（ひだり）,왼손 잡기,左手抓握,左手抓握
+Options_RightGrab,,Right grab,Attraper main droite,Rechts zugreifen,Agarrar derecha,Lado direito,Afferra a destra,Схватиться правой рукой,つかむ（みぎ）,오른손 잡기,右手抓握,右手抓握
+Options_Point,,Point,Pointer,Fingerzeig,Apuntar,Apontar,Indica,Указать,ユビサシ,가리키기,指著,指着
+Options_HappyEmote,,Happy emote,Emote joyeuse,Glückliches Gesicht,Expresión feliz,Expressão feliz,Espressione felice,Радость,ウレシみのポーズ,감정표현: 행복,開心表情,开心表情
+Options_AngryEmote,,Angry emote,Emote fâchée,Wütendes Gesicht,Expresión enfadada,Expressão zangada,Espressione arrabbiata,Гнев,プンスカのポーズ,감정표현: 화남,憤怒表情,愤怒表情
+Options_Charge,,Charge,Charge,Elektroschock,Cargar,Carregar,Scarica,Электрошок,ショック,힘 모으기,電擊,电击
+Options_PressKeyToMap,,Press key to assign,Appuyer sur une touche pour assigner,Zum Zuweisen Taste drücken,Pulsa una tecla para asignar,Aperte a tecla para designar,Premi il tasto da assegnare,Нажмите кнопку/ которую хотите назначить,キーを おして わりあて,버튼을 눌러 지정,請按指定鍵,请按指定键
+Splashscreen_Controller,,Gamepad strongly recommended for super precision game control!,Manette fortement recommandée pour plus de précision !,Für eine wirklich präzise Steuerung wird ein Controller empfohlen!,¡Se recomienda el uso de un mando para un control más preciso!,Recomendamos fortemente o uso de um controle para obter a melhor precisão possível no jogo!,Per la massima precisione nel controllo del gioco/ è consigliabile utilizzare un controller!,Для суперточного управления рекомендуется использовать геймпад!,コントローラーでの プレイを おすすめします,정밀한 조작을 위해 게임패드로 플레이하는 것을 강력히 권장합니다!,為精確控制，強烈建議使用手柄！,为精确控制，强烈建议使用手柄！
+Splashscreen_Purchase,,Get the Full Game at <color=#242424>HeaveHoGame.com</color>,Acheter le jeu complet sur <color=#242424>HeaveHoGame.com</color>,Das komplette Spiel gibt es auf <color=#242424>HeaveHoGame.com</color>,Consigue el juego completo en <color=#242424>HeaveHoGame.com</color>,Adquira o jogo completo em <color=#242424>HeaveHoGame.com</color>,Ottieni il gioco completo su <color=#242424>HeaveHoGame.com</color>,Получите полную версию игры на <color=#242424>HeaveHoGame.com</color>,製品版は <color=#242424>HeaveHoGame.com</color> で！,풀버전을 <color=#242424>HeaveHoGame.com</color>에서 만나보세요,請訪問<color=#242424>HeaveHoGame.com</color>獲取完整遊戲,请访问<color=#242424>HeaveHoGame.com</color>获取完整游戏

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02851ce815748fd44ace916ccbc42166, type: 3}
+  m_Name: BasicPaintLevel
+  m_EditorClassIdentifier: 
+  IsScoreTime: 1
+  isUsingSameRespawnPoint: 1
+  PaintGunPrefab: {fileID: 114891387510059792, guid: 153574d3dd5ec4f4ead3a19bce08ec44,
+    type: 2}

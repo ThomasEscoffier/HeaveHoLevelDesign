@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5430cf35315e0dd449b1278eb3edeafc, type: 3}
+  m_Name: MarieAntoinette
+  m_EditorClassIdentifier: 
+  Name: MarieAntoinette
+  BodyColor: {fileID: 11400000, guid: eabf18cac8530aa448cb5a07606a836a, type: 2}
+  HairName: COIFFE_MARIEANTOINETTE
+  GlassesName: 
+  FacialFeaturesName: VISAGE_MARQUIS
+  Arms: {fileID: 11400000, guid: 715a8ba361cad54428a5f1119681940e, type: 2}
+  Personality: 1
+  IsRobot: 0
+  IsMask: 0
+  IsHideFace: 0
+  IsAvailableInSelection: 1

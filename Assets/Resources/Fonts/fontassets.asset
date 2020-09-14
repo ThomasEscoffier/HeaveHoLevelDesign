@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da49ba6afdc9cd848b56b0f064a207df, type: 3}
+  m_Name: fontassets
+  m_EditorClassIdentifier: 
+  romanAlphabet:
+    big: {fileID: 12800000, guid: 3e49c9f5d6b7a374eb450eb99b1bdb26, type: 3}
+    small: {fileID: 12800000, guid: 0951fdc7670d2d6488014ea9c27959b0, type: 3}
+    digital: {fileID: 12800000, guid: 3e76debef8b1c664b95bcd410abc9b27, type: 3}
+    bigSize: 1
+    smallSize: 1
+    digitalSize: 1
+  russian:
+    big: {fileID: 12800000, guid: 5e998b3bd8131634a80e4eed7336fccc, type: 3}
+    small: {fileID: 12800000, guid: a73d6a7e4ce5ff44b8deb46d81d69c60, type: 3}
+    digital: {fileID: 12800000, guid: 5e998b3bd8131634a80e4eed7336fccc, type: 3}
+    bigSize: 1.5
+    smallSize: 1
+    digitalSize: 1
+  japanese:
+    big: {fileID: 12800000, guid: 830c659fddb419143b81ac69662ebd55, type: 3}
+    small: {fileID: 12800000, guid: 43676fc80f8909d4eb24fbf32dc4e696, type: 3}
+    digital: {fileID: 12800000, guid: 830c659fddb419143b81ac69662ebd55, type: 3}
+    bigSize: 1
+    smallSize: 1
+    digitalSize: 1
+  korean:
+    big: {fileID: 12800000, guid: 5b10486a600709e469b9bc1dd49a034b, type: 3}
+    small: {fileID: 12800000, guid: 6c705488ed42b8b4589b20ee436a1a4d, type: 3}
+    digital: {fileID: 12800000, guid: 5b10486a600709e469b9bc1dd49a034b, type: 3}
+    bigSize: 1.2
+    smallSize: 1
+    digitalSize: 1
+  traditionalChinese:
+    big: {fileID: 12800000, guid: b5d3814725a95764293eccf228e5fb97, type: 3}
+    small: {fileID: 12800000, guid: 7b65ece67f8c04525a7d403af457b5c0, type: 3}
+    digital: {fileID: 12800000, guid: b5d3814725a95764293eccf228e5fb97, type: 3}
+    bigSize: 2
+    smallSize: 1
+    digitalSize: 1
+  simplifiedChinese:
+    big: {fileID: 12800000, guid: 55a36521f5e7a6d408f4d53e87c7331e, type: 3}
+    small: {fileID: 12800000, guid: 4c099635bc77bca47b8abd1429f441dc, type: 3}
+    digital: {fileID: 12800000, guid: 55a36521f5e7a6d408f4d53e87c7331e, type: 3}
+    bigSize: 2
+    smallSize: 1
+    digitalSize: 1
+  fontsInfos: {fileID: 4900000, guid: 841a86a8e63e53446b0ea19648ef1fbf, type: 3}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScrollingTuto5
+  m_Controller: {fileID: 9100000, guid: b70684971c2f2f740ad2aca7b9f11225, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 84a8a4fe723024f4c9ef484da29f57b6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f00a04006a1d64e56bf660813047a511, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a096e44fa8f389a4c843a098b7f4b660, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4b3a8a1a995cf41ed8401c9d51b833ad, type: 2}

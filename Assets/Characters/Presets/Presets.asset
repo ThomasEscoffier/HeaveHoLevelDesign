@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9cf9309f50ec439962c610ed5178c, type: 3}
+  m_Name: Presets
+  m_EditorClassIdentifier: 
+  ColorsPresets:
+  - {fileID: 11400000, guid: 27fe34b039d01904ab9435d268215ecf, type: 2}
+  - {fileID: 11400000, guid: 8cf4e9dd2c1faa34ead8b68431bd8c96, type: 2}
+  - {fileID: 11400000, guid: 735f986250789e64bb30a9e6be92144c, type: 2}
+  - {fileID: 11400000, guid: eabf18cac8530aa448cb5a07606a836a, type: 2}
+  - {fileID: 11400000, guid: 76b71e64d5fb5b440a24e6972d13e137, type: 2}
+  - {fileID: 11400000, guid: 58dd7222259373e41b557ac83fb750cd, type: 2}
+  CharactersPresets:
+  - {fileID: 11400000, guid: 9e6bf3e5b164b964593e5ea16574ea6c, type: 2}
+  - {fileID: 11400000, guid: 6a18eebbd4f68ae4cb3142be65f57715, type: 2}
+  - {fileID: 11400000, guid: cd2cd4dfcf2ef664bb01b50048270d75, type: 2}
+  - {fileID: 11400000, guid: d6f2ba19bf7f76446868a4418f75814a, type: 2}
+  - {fileID: 11400000, guid: f82615b0d6f9f894aa02b144b97c321c, type: 2}
+  - {fileID: 11400000, guid: 8905d670ca9bec34ab11945b04cb16e4, type: 2}
+  HeadsHideFace: []
+  RobotHeads: []
+  MaskHeads: []
+  HairDefault:
+  - COIFFE_AEROBIC
+  - COIFFE_CHAPLIN
+  - COIFFE_DWIGHT
+  - COIFFE_MARILYN
+  - COIFFE_SCHTROUMPFETTE
+  - COIFFE_NATASHA
+  - COIFFE_SKYWALKER
+  GlassesDefault:
+  - LUNETTES_Aviator
+  - LUNETTES_CacheOeil
+  - LUNETTES_Disco
+  - LUNETTES_Diva
+  - LUNETTES_DWIGHT
+  - LUNETTES_KanyeWest
+  - LUNETTES_KimJongUn
+  - LUNETTES_LadyGaga
+  - LUNETTES_Raybans
+  - LUNETTES_Rondes
+  FacialFeaturesDefault:
+  - VISAGE_ADO
+  - VISAGE_BARBE
+  - VISAGE_BIKER
+  - VISAGE_TAILLE

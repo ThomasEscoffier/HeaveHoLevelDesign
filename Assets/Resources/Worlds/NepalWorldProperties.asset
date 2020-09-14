@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad60a0d362e4a25459f09fcb9a75801e, type: 3}
+  m_Name: NepalWorldProperties
+  m_EditorClassIdentifier: 
+  WorldName: Nepal
+  LocaKey: World_Nepal
+  TypeName: DEFAULT
+  OrderInMenu: 1
+  ColorInMenu: {r: 0.4862745, g: 0.5372549, b: 0.7019608, a: 1}
+  BackgroundAnimatorName: NepalMenuBackground
+  runs:
+  - NbPlayerMin: 1
+    NbPlayerMax: 1
+    properties:
+    - LevelName: Nepal1-1
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level1
+      Ambiance: event:/SFX/Ambience/mountain-amb1
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.84313726, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal2-1
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level2
+      Ambiance: event:/SFX/Ambience/mountain-amb2
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal3-1
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level3
+      Ambiance: event:/SFX/Ambience/mountain-amb3
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal4-1
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level4
+      Ambiance: event:/SFX/Ambience/mountain-amb4
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Splashscreen_End
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-recap
+      Ambiance: event:/SFX/Ambience/mountain-amb5
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+  - NbPlayerMin: 2
+    NbPlayerMax: 2
+    properties:
+    - LevelName: Nepal1-2
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level1
+      Ambiance: event:/SFX/Ambience/mountain-amb1
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal2-2
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level2
+      Ambiance: event:/SFX/Ambience/mountain-amb2
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal3-2
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level3
+      Ambiance: event:/SFX/Ambience/mountain-amb3
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal4-2
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level4
+      Ambiance: event:/SFX/Ambience/mountain-amb4
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal_Ceremony
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-recap
+      Ambiance: event:/SFX/Ambience/mountain-amb5
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0.3529412, g: 0.8431373, b: 0.5254902, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+  - NbPlayerMin: 3
+    NbPlayerMax: 4
+    properties:
+    - LevelName: Nepal1-3
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level1
+      Ambiance: event:/SFX/Ambience/mountain-amb1
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0, g: 0.6509434, b: 0.10971652, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal2-3
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level2
+      Ambiance: event:/SFX/Ambience/mountain-amb2
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0, g: 0.6509434, b: 0.10971652, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal3-3
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level3
+      Ambiance: event:/SFX/Ambience/mountain-amb3
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0, g: 0.6509434, b: 0.10971652, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal4-3
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-level4
+      Ambiance: event:/SFX/Ambience/mountain-amb4
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0, g: 0.6509434, b: 0.10971652, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 1
+    - LevelName: Nepal_Ceremony
+      LevelToLoadBefore: 
+      LevelToLoadAfter: 
+      Difficulty: 0
+      LevelType: 0
+      IsUsingInteractiveMusic: 1
+      Music: event:/Music/mountain-recap
+      Ambiance: event:/SFX/Ambience/mountain-amb5
+      Snapshot: snapshot:/LEVEL MONTAGNE
+      Stinger: event:/MusicStingers/mountain-stingers
+      StingerOnesShot: mountainsstingers
+      TintCharacter: {r: 1, g: 1, b: 1, a: 1}
+      TintCharacterBody: {r: 0, g: 0, b: 0, a: 0}
+      ColorScorePanel: {r: 0, g: 0.6509434, b: 0.10971652, a: 1}
+      IsAvailableForFusion: 1
+      TransitionName: 
+      HasToken: 0
+  requiredAssetbundles:
+  - nepalassets
+  - nepaleasyscenes

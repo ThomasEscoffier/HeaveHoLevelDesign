@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1259539084199236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4270717732601922}
+  - component: {fileID: 114394799752285824}
+  m_Layer: 0
+  m_Name: AmbianceManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4270717732601922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259539084199236}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.167589, y: -7.507127, z: 0.045558386}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114394799752285824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259539084199236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b571f7c266049b23f4c8587cf0a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EventList:
+  - EventName: AllFitIn
+    EventPath: event:/SFX/Ambience/minigame-allfitinone-amb
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: Basket
+    EventPath: event:/SFX/Ambience/minigame-basket-amb
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: JustDance
+    EventPath: event:/SFX/Ambience/minigame-justdance-amb
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  SnapshotList:
+  - EventName: JustDance
+    EventPath: snapshot:/LEVEL JUSTDANCE
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: AllFitIn
+    EventPath: snapshot:/LEVEL ALLFITINONE
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
+  - EventName: Menu
+    EventPath: snapshot:/LEVEL INTERIEUR
+    IsInitAtStart: 0
+    IsRunningAtStart: 0
