@@ -40,15 +40,23 @@ public class RandomPoopingBird : RandomLevelEvent
     public override void Init()
     {
         base.Init();
-        anim.enabled = false;
+
+        if(anim != null)
+        { 
+            anim.enabled = false;
+        }
         spriteRend.enabled = false;
         spriteRend.flipX = IsMovingLeft;
+        
     }
 
     public override void Play()
     {
         base.Play();
+        if (anim != null)
+        {
         anim.enabled = true;
+        }
         spriteRend.enabled = true;
         sound.PlayEvent("Shout");
         timeBeforeNextSound = Random.Range(MinDelayBetweenSeagullSounds, MaxDelayBetweenSeagullSounds);
@@ -104,7 +112,11 @@ public class RandomPoopingBird : RandomLevelEvent
 
     public override void Finish()
     {
-        anim.enabled = false;
+
+        if (anim != null)
+        {
+            anim.enabled = false;
+        }
         timerCoolDown = 0f;
         transform.position = startPos;
         spriteRend.enabled = false;
