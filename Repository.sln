@@ -1,0 +1,71 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime", "Unity.Postprocessing.Runtime.csproj", "{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7F257A9E-0A32-76BC-39EA-6816E6E9099D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime.Tests", "Unity.Postprocessing.Runtime.Tests.csproj", "{6E8DF6D1-CC3F-8E20-3F4B-1F851CA584D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{363578D8-725D-88C9-9227-FC9A1184436C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{89736128-6F69-CCC7-E478-4E2E3D5CBE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor", "Unity.Postprocessing.Editor.csproj", "{0B6FAC9B-2F03-F7D8-B350-6F7BF21FCCB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor.Tests", "Unity.Postprocessing.Editor.Tests.csproj", "{637F0AD7-1A6A-54A7-1039-897A78432484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Editor|Windows = Editor|Windows
+		Debug|Windows = Debug|Windows
+		Release|Windows = Release|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Editor|Windows.ActiveCfg = Editor|Windows
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Editor|Windows.Build.0 = Editor|Windows
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Debug|Windows.ActiveCfg = Debug|Windows
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Debug|Windows.Build.0 = Debug|Windows
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Release|Windows.ActiveCfg = Release|Windows
+		{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}.Release|Windows.Build.0 = Release|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Editor|Windows.ActiveCfg = Editor|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Editor|Windows.Build.0 = Editor|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Debug|Windows.ActiveCfg = Debug|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Debug|Windows.Build.0 = Debug|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Release|Windows.ActiveCfg = Release|Windows
+		{7F257A9E-0A32-76BC-39EA-6816E6E9099D}.Release|Windows.Build.0 = Release|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Editor|Windows.ActiveCfg = Editor|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Editor|Windows.Build.0 = Editor|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Debug|Windows.ActiveCfg = Debug|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Debug|Windows.Build.0 = Debug|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Release|Windows.ActiveCfg = Release|Windows
+		{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}.Release|Windows.Build.0 = Release|Windows
+		{6E8DF6D1-CC3F-8E20-3F4B-1F851CA584D4}.Editor|Windows.ActiveCfg = Editor|Windows
+		{6E8DF6D1-CC3F-8E20-3F4B-1F851CA584D4}.Editor|Windows.Build.0 = Editor|Windows
+		{6E8DF6D1-CC3F-8E20-3F4B-1F851CA584D4}.Debug|Windows.ActiveCfg = Debug|Windows
+		{6E8DF6D1-CC3F-8E20-3F4B-1F851CA584D4}.Release|Windows.ActiveCfg = Release|Windows
+		{363578D8-725D-88C9-9227-FC9A1184436C}.Editor|Windows.ActiveCfg = Editor|Windows
+		{363578D8-725D-88C9-9227-FC9A1184436C}.Editor|Windows.Build.0 = Editor|Windows
+		{363578D8-725D-88C9-9227-FC9A1184436C}.Debug|Windows.ActiveCfg = Debug|Windows
+		{363578D8-725D-88C9-9227-FC9A1184436C}.Release|Windows.ActiveCfg = Release|Windows
+		{89736128-6F69-CCC7-E478-4E2E3D5CBE06}.Editor|Windows.ActiveCfg = Editor|Windows
+		{89736128-6F69-CCC7-E478-4E2E3D5CBE06}.Editor|Windows.Build.0 = Editor|Windows
+		{89736128-6F69-CCC7-E478-4E2E3D5CBE06}.Debug|Windows.ActiveCfg = Debug|Windows
+		{89736128-6F69-CCC7-E478-4E2E3D5CBE06}.Release|Windows.ActiveCfg = Release|Windows
+		{0B6FAC9B-2F03-F7D8-B350-6F7BF21FCCB6}.Editor|Windows.ActiveCfg = Editor|Windows
+		{0B6FAC9B-2F03-F7D8-B350-6F7BF21FCCB6}.Editor|Windows.Build.0 = Editor|Windows
+		{0B6FAC9B-2F03-F7D8-B350-6F7BF21FCCB6}.Debug|Windows.ActiveCfg = Debug|Windows
+		{0B6FAC9B-2F03-F7D8-B350-6F7BF21FCCB6}.Release|Windows.ActiveCfg = Release|Windows
+		{637F0AD7-1A6A-54A7-1039-897A78432484}.Editor|Windows.ActiveCfg = Editor|Windows
+		{637F0AD7-1A6A-54A7-1039-897A78432484}.Editor|Windows.Build.0 = Editor|Windows
+		{637F0AD7-1A6A-54A7-1039-897A78432484}.Debug|Windows.ActiveCfg = Debug|Windows
+		{637F0AD7-1A6A-54A7-1039-897A78432484}.Release|Windows.ActiveCfg = Release|Windows
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

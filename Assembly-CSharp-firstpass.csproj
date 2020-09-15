@@ -2,18 +2,20 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Editor</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">Windows</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
-    <ProjectGuid>{66FF96C7-0395-C85E-2DDB-7BACDBA599B6}</ProjectGuid>
+    <RootNamespace>
+    </RootNamespace>
+    <ProjectGuid>{F3D2AD5D-E84B-5FA2-A85E-95935EEB1124}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
     <DebugType>full</DebugType>
@@ -156,10 +158,10 @@
     <None Include="Assets\Plugins\com.unity.postprocessing@2.1.3\PostProcessing\Shaders\Debug\Histogram.shader" />
     <None Include="Assets\Plugins\com.unity.postprocessing@2.1.3\PostProcessing\Shaders\Builtins\ExposureHistogram.compute" />
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>S:/Programs/UnityEditor/2018.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -363,19 +365,19 @@
       <HintPath>S:/Programs/UnityEditor/2018.3.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Rewired_Core">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Assets/Rewired/Internal/Libraries/Runtime/Rewired_Core.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Assets/Rewired/Internal/Libraries/Runtime/Rewired_Core.dll</HintPath>
     </Reference>
     <Reference Include="Rewired_Windows_Lib">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Assets/Rewired/Internal/Libraries/Runtime/Rewired_Windows_Lib.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Assets/Rewired/Internal/Libraries/Runtime/Rewired_Windows_Lib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>S:/Programs/UnityEditor/2018.3.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -725,7 +727,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{7582968F-D32C-8D57-E2EC-D17A1FD3E707}</Project>
+      <Project>{DA81D59C-AF2A-BE09-E5E0-F1B99412AFDE}</Project>
       <Name>Unity.Postprocessing.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
@@ -743,16 +745,16 @@
       <HintPath>S:\Programs\UnityEditor\2018.3.12f1\Editor\Data\Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AssetBundleBrowser.Editor">
-      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/heaveho/Library/ScriptAssemblies/Unity.AssetBundleBrowser.Editor.dll</HintPath>
+      <HintPath>D:/Safe_link/IIM Premier Semestre/Level Design H HO/Repository/Library/ScriptAssemblies/Unity.AssetBundleBrowser.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup Condition="'$(Platform)' == 'Windows'">

@@ -200,5 +200,5 @@ MonoBehaviour:
   bulletPrefab: {fileID: 2333922038447055486, guid: c85ac30af5f94ea4490feb7772d8177a,
     type: 3}
   coinCannon: 1
-  bulletForce: 5
+  bulletForce: 40
   fireRate: 3

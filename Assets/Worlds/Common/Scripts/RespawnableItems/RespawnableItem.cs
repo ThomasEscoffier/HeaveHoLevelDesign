@@ -676,6 +676,8 @@ public class RespawnableItem : MonoBehaviour {
 
     void OnDestroy()
     {
-        soundModule.TerminateEventInstance("Roll");
+
+        if(soundModule != null)
+            soundModule.TerminateEventInstance("Roll");
     }
 }

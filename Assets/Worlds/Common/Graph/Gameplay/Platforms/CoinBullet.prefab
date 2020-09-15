@@ -320,7 +320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GreyTokenPrefab: {fileID: 1503989671508314, guid: 01c1c77f83a8f1c47afce72956cfb7d3,
     type: 3}
-  IsFakeToken: 0
+  IsFakeToken: 1
   SizeRatio: 1
   Type: 0
   IsStaticWhenNotTaken: 1
@@ -333,7 +333,7 @@ MonoBehaviour:
   - {fileID: 2333860249107171640}
   - {fileID: 2333253393936830540}
   IgnoresLevelManagerLimits: 0
-  RespawnsAfterDeath: 1
+  RespawnsAfterDeath: 0
   TimeRespawnEffect: 1
   TimeBeforeRespawn: 1
   TimeDisabledHandAfterDeactivate: 0.1
@@ -356,14 +356,14 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2333922038447055486}
-  m_BodyType: 2
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 0
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_Interpolate: 1
   m_SleepingMode: 1

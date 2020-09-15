@@ -1480,6 +1480,16 @@ PrefabInstance:
       propertyPath: pushOutTrigger
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114114178159917398, guid: ecf489e472bb045ecaee393a66c16569,
+        type: 3}
+      propertyPath: IgnoresLevelManagerLimits
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114114178159917398, guid: ecf489e472bb045ecaee393a66c16569,
+        type: 3}
+      propertyPath: IsStaticWhenNotTaken
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
 --- !u!4 &513885903 stripped
