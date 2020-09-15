@@ -102,7 +102,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -891781391
   m_SortingLayer: 2
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 9bd551c65e53e374280d5fe512aa387d, type: 3}
   m_Color: {r: 0.5254902, g: 0.6156863, b: 0.5921569, a: 1}
   m_FlipX: 0
@@ -200,5 +200,5 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 847bc6120a24b5f43ba76696817c37e5,
     type: 3}
   coinCannon: 0
-  bulletForce: 5000
+  bulletForce: 500000
   fireRate: 3

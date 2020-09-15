@@ -182,3 +182,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 5
+  coin: 0
+  destructable: 1
