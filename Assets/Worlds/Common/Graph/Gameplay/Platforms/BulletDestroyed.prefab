@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4116091637079185994}
   - component: {fileID: 8710062980009982547}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: BulletDestroyed
   m_TagString: Grab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -157,4 +157,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timer: 8
   coin: 0
-  destructable: 0
+  destructable: 1
