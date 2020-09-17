@@ -290,7 +290,7 @@ PrefabInstance:
         type: 3}
       propertyPath: bulletPrefab
       value: 
-      objectReference: {fileID: 7582036202686118424, guid: 8697c87299e738d42831157f28a398f5,
+      objectReference: {fileID: 7582036202686118424, guid: 847bc6120a24b5f43ba76696817c37e5,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d40c72f830797ff43b4b9cbe8c4ec9ce, type: 3}
@@ -1106,11 +1106,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4537096346194774, guid: f458feb9d3840de49bb30ad3085f9668, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 35.05146
+      value: -40.4
       objectReference: {fileID: 0}
     - target: {fileID: 4537096346194774, guid: f458feb9d3840de49bb30ad3085f9668, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2837229
+      value: -20.7
       objectReference: {fileID: 0}
     - target: {fileID: 4537096346194774, guid: f458feb9d3840de49bb30ad3085f9668, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5951,11 +5951,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4059669817034280, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -40.97
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 4059669817034280, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.38
+      value: 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 4059669817034280, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5988,11 +5988,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4408493984154168, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 44.35
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4408493984154168, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -11.7
+      value: 14.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114114178159917398, guid: ecf489e472bb045ecaee393a66c16569,
+        type: 3}
+      propertyPath: IsFakeToken
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf489e472bb045ecaee393a66c16569, type: 3}
