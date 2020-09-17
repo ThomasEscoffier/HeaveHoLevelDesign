@@ -6,22 +6,23 @@ public class Bullet : MonoBehaviour
 {
     public float timer = 3f;
     public bool coin = false;
-    public bool destroyable = false;
+    public bool pic = false;
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
         Debug.Log(collision.collider.tag);
 
-        if (!collision.collider.CompareTag("Character"))
+        if (pic)
         {
-            if (!coin)
-            {
-                if(collision.collider.CompareTag("Destroyer"))
-                    Destroy(gameObject);
-
-                if (destroyable)
-                    Destroy(gameObject);
+            Destroy(gameObject);
+        }
+        else
+        {
+            if (collision.collider.CompareTag("Destroyer"))
+            { 
+              Destroy(gameObject);
             }
+
         }
     }
 
