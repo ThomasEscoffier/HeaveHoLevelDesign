@@ -15,6 +15,7 @@ TagManager:
   - Debug
   - HUD
   - Paint
+  - Destroyer
   layers:
   - Default
   - TransparentFX
