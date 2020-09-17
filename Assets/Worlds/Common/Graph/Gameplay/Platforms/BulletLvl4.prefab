@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4116091637079185994}
   - component: {fileID: 8710062980009982547}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: BulletLvl4
   m_TagString: Grab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -155,6 +155,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12418ba7d907d6548812c964c36b3aa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 9
+  timer: 18
   coin: 0
   pic: 0

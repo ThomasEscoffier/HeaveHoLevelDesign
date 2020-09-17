@@ -17,8 +17,11 @@ public class Bullet : MonoBehaviour
         else
         {
             if (collision.collider.CompareTag("Destroyer"))
-            { 
-              Destroy(gameObject);
+            {
+                if (!coin)
+                {
+                    Destroy(gameObject);
+                }
             }
 
         }
@@ -36,7 +39,7 @@ public class Bullet : MonoBehaviour
             {
                 Destroy(gameObject);
             }
-        }
 
+        }
     }
 }
