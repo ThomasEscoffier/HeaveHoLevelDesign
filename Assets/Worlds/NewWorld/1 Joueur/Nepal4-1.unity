@@ -1463,7 +1463,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383847539}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 55.02, y: -6.82, z: 0}
+  m_LocalPosition: {x: 55.2, y: -7.82, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 601866696}
@@ -1822,7 +1822,19 @@ PrefabInstance:
       propertyPath: TimeMoving
       value: 60
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 212140013430246034, guid: 820082800fe0f8345ac042939dd7458f,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7bcfa34b532f74f40add51ba9f0806c1,
+        type: 3}
+    - target: {fileID: 212140013430246034, guid: 820082800fe0f8345ac042939dd7458f,
+        type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 95204822876314618, guid: 820082800fe0f8345ac042939dd7458f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 820082800fe0f8345ac042939dd7458f, type: 3}
 --- !u!4 &524292817 stripped
 Transform:
@@ -2335,7 +2347,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 824947437}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 52.3, y: -11.73, z: 0}
+  m_LocalPosition: {x: 52.480003, y: -12.729998, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 601866696}
@@ -3784,7 +3796,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1068395343}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.55, y: -11.73, z: 0}
+  m_LocalPosition: {x: 12.730005, y: -12.729998, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 601866696}
@@ -4696,7 +4708,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1357050573}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 19.87, y: -6.98, z: 0}
+  m_LocalPosition: {x: 15.69, y: -7.9799986, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 601866696}
@@ -5335,6 +5347,22 @@ PrefabInstance:
       propertyPath: ProjectileCooldown
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 8970114467222187901, guid: b6f14dd23d5c16c478d5c72b91d3ea44,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8970114467222187901, guid: b6f14dd23d5c16c478d5c72b91d3ea44,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6932099450926751098, guid: b6f14dd23d5c16c478d5c72b91d3ea44,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 133134615ba948b449edfc6de1d6032e,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6f14dd23d5c16c478d5c72b91d3ea44, type: 3}
 --- !u!4 &1474245407 stripped
