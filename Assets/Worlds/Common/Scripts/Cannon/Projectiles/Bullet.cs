@@ -6,6 +6,7 @@ public class Bullet : MonoBehaviour
 {
     public float timer = 3f;
     public bool coin = false;
+    public bool destroyable = false;
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
@@ -16,6 +17,9 @@ public class Bullet : MonoBehaviour
             if (!coin)
             {
                 if(collision.collider.CompareTag("Destroyer"))
+                    Destroy(gameObject);
+
+                if (destroyable)
                     Destroy(gameObject);
             }
         }

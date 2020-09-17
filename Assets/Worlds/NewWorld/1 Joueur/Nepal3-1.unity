@@ -1076,7 +1076,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 094f16dbbdf74494b9a34846939e7c67,
     type: 3}
   coinCannon: 0
-  bulletForce: 30000
+  bulletForce: 300
   fireRate: 3
 --- !u!114 &394779592
 MonoBehaviour:
@@ -2022,7 +2022,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 094f16dbbdf74494b9a34846939e7c67,
     type: 3}
   coinCannon: 0
-  bulletForce: 30000
+  bulletForce: 300
   fireRate: 3
 --- !u!114 &810504035
 MonoBehaviour:
@@ -5314,7 +5314,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 094f16dbbdf74494b9a34846939e7c67,
     type: 3}
   coinCannon: 0
-  bulletForce: 30000
+  bulletForce: 300
   fireRate: 3
 --- !u!4 &6073683129273601536
 Transform:

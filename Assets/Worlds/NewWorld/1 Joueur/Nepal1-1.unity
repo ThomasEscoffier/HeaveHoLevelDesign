@@ -1040,6 +1040,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.7411765
       objectReference: {fileID: 0}
+    - target: {fileID: 212017100407150230, guid: bad1fcea5960b7c43a979cc7e4635cc9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 74df77ce84dc4e74cbfcdbda8124cb8e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad1fcea5960b7c43a979cc7e4635cc9, type: 3}
 --- !u!1 &575358355
@@ -3777,7 +3782,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 094f16dbbdf74494b9a34846939e7c67,
     type: 3}
   coinCannon: 0
-  bulletForce: 30000
+  bulletForce: 300
   fireRate: 3
 --- !u!4 &1258355896300848136
 Transform:
@@ -4792,7 +4797,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7582036202686118424, guid: 094f16dbbdf74494b9a34846939e7c67,
     type: 3}
   coinCannon: 0
-  bulletForce: 30000
+  bulletForce: 300
   fireRate: 3
 --- !u!4 &2679543354084563809
 Transform:
