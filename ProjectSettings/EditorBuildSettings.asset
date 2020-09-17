@@ -43,37 +43,25 @@ EditorBuildSettings:
     guid: b4f7764559a99754fb729866bdb17cb4
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement1/Nepal1-2.unity
-    guid: 705b0ddd64c1c4c0a9e38509d9d8b534
-  - enabled: 1
-    path: Assets/Worlds/Nepal/ScenesEasy/RunElement1/Nepal1-3.unity
-    guid: cef74d1d57a12450ca28f8d632eebb24
+    guid: 9fe5ec34ddd411147b1b090afb6f7f2c
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement2/Nepal2-1.unity
-    guid: 9fe5ec34ddd411147b1b090afb6f7f2c
+    guid: d001c6d2bb546fa4ba54f5b6423d73aa
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement2/Nepal2-2.unity
     guid: 5b63b06321f1643afbd7fefdeee57181
   - enabled: 1
-    path: Assets/Worlds/Nepal/ScenesEasy/RunElement2/Nepal2-3.unity
-    guid: 1713427efb3ec47e88d086db59f0be22
-  - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement3/Nepal3-1.unity
-    guid: 521adc9904613fa4a890e51443ee763e
+    guid: fcf932a0e3348e242b789692f88083a0
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement3/Nepal3-2.unity
-    guid: 425dde3c607324f22889cd6355be3ff6
-  - enabled: 1
-    path: Assets/Worlds/Nepal/ScenesEasy/RunElement3/Nepal3-3.unity
-    guid: 698a5a0c5b6694626a0205267c26a209
+    guid: 1713427efb3ec47e88d086db59f0be22
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement4/Nepal4-1.unity
-    guid: 79e06de1f95722348a1b368a884dd175
+    guid: a6de37e8888f0ba46aef38230369e9e7
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/RunElement4/Nepal4-2.unity
-    guid: 8a886807c75104070bba4c7fb981acce
-  - enabled: 1
-    path: Assets/Worlds/Nepal/ScenesEasy/RunElement4/Nepal4-3.unity
-    guid: 03c8e3773a42d45dbb5698db5a4a91a0
+    guid: 98b32d76543bfe44ea876a2c99c3079d
   - enabled: 1
     path: Assets/Worlds/Nepal/ScenesEasy/Nepal_Ceremony.unity
     guid: f076f96dec1df99469c9ba8d027545d3
